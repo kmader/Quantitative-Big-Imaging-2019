@@ -1,10 +1,10 @@
 [![Binder with JupyterLab](https://img.shields.io/badge/launch-jupyterlab-red.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?urlpath=lab)
-[![Build Status](https://travis-ci.org/kmader/Quantitative-Big-Imaging-2018.svg?branch=master)](https://travis-ci.org/kmader/Quantitative-Big-Imaging-2019)
-[![CircleCI](https://circleci.com/gh/kmader/Quantitative-Big-Imaging-2018.svg?style=svg)](https://circleci.com/gh/kmader/Quantitative-Big-Imaging-2019)
+[![Build Status](https://travis-ci.org/kmader/Quantitative-Big-Imaging-2019.svg?branch=master)](https://travis-ci.org/kmader/Quantitative-Big-Imaging-2019)
+[![CircleCI](https://circleci.com/gh/kmader/Quantitative-Big-Imaging-2019.svg?style=svg)](https://circleci.com/gh/kmader/Quantitative-Big-Imaging-2019)
 
 ## Quantitative Big Imaging Course 2019
 
-Here are the lectures, exercises, and additional course materials corresponding to the spring semester 2019 course at ETH Zurich, [227-0966-00L](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=120956&semkez=2018S&ansicht=KATALOGDATEN&lang=en): Quantitative Big Imaging.
+Here are the lectures, exercises, and additional course materials corresponding to the spring semester 2019 course at ETH Zurich, [227-0966-00L](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=128120&semkez=2019S&ansicht=KATALOGDATEN&lang=en): Quantitative Big Imaging.
 
 The lectures have been prepared and given by Kevin Mader and associated guest lecturers. Please note the Lecture Slides and PDF do not contain source code, this is only available in the handout file. Some of the lectures will be recorded and placed on YouTube on the [QBI Playlist](https://www.youtube.com/playlist?list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M).
 
