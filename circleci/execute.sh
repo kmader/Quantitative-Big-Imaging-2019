@@ -1,5 +1,5 @@
 export PATH="$HOME/miniconda3/bin:$PATH"
-source activate qbi2018
+source activate qbi2019
 export QBI_HOME=$(pwd)
 
 python --version

@@ -32,8 +32,8 @@ popd
 
 # Configure the conda environment and put it in the path using the
 # provided versions
-conda env create -n qbi2018 -f binder/environment.yml
-source activate qbi2018
+conda env create -n qbi2019 -f binder/environment.yml
+source activate qbi2019
 
 export QBI_HOME=$(pwd)
 
