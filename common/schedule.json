@@ -35,12 +35,12 @@
 		"Applications": "Count cells and determine their average shape and volume"
 	},
 	{
-		"Lecture": "11th April - Analyzing Complex Objects and Distributions  ",
+		"Lecture": "11th April - Analyzing Complex Objects and Distributions",
 		"Description": "What techniques are available to analyze more complicated objects with poorly defined 'shape' using Distance maps, Thickness maps, and Voronoi tesselation",
 		"Applications": "Seperate clumps of cells, analyze vessel networks, trabecular bone, and other similar structures"
 	},
 	{
-		"Lecture": "18th May - Dynamic Experiments",
+		"Lecture": "18th April - Dynamic Experiments",
 		"Description": "Performing tracking and registration in dynamic, changing systems covering object and image based methods",
 		"Applications": "Turning a video of foam flow into metrics like speed, average deformation, and reorganization"
 	},
@@ -49,20 +49,19 @@
 		"Description": "Making a statistical analysis from quantified image data, and establishing the precision of the metrics calculated, also more coverage of the steps to making an analysis reproducible",
 		"Applications": "Determine if/how different a cancerous cell is from a healthly cell properly"
 	},
-
 	{
-		"Lecture": "17th May - Scaling Up / Big Data",
-		"Description": "Performing large scale analyses on clusters and cloud-based machines and an introduction of how to work with 'big data' frameworks",
-		"Applications": "Performing large scale analyses using ETHs clusters and Amazons Cloud Resources, how to do anything with a terabytes of data"
-	},
-	{
-		"Lecture": "24th May - ",
+		"Lecture": "9th May - ",
 		"Description": "How Roche does Microscopy at Scale with High Content Screening and what the important image analysis aspects are",
 		"Applications": "Robust analysis of millions of images for making decisions about pharmaceuticals to pursue"
 	},
 	{
-		"Lecture": "31st May - ",
-		"Description": "Applying more advanced techniques from the field of Machine Learning to image processing segmentation and analysis of aerial images specifically Support vector machines (SVM) and Markov Random Fields (MRF)",
-		"Applications": "Identifying houses, streets, and cars in satellite images"
+		"Lecture": "16th May - Scaling Up / Big Data",
+		"Description": "Performing large scale analyses on clusters and cloud-based machines and an introduction of how to work with 'big data' frameworks",
+		"Applications": "Performing large scale analyses using ETHs clusters and Amazons Cloud Resources, how to do anything with a terabytes of data"
+	},
+	{
+		"Lecture": "23rd May - Project Presentations",
+		"Description": "You present your projcts",
+		"Applications": ""
 	}
 ]
