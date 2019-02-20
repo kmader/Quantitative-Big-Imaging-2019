@@ -5,9 +5,9 @@
 		"Applications": "Calculating the intensity for a folder full of images"
 	},
 	{
-		"Lecture": "28th February - Introduction and Workflows",
-		"Description": "Basic overview of the course, introduction to the basics of images and their acquisition, the importance of reproducibility and why workflows make sense for image processing",
-		"Applications": "Calculating the intensity for a folder full of images"
+		"Lecture": "28th February - Ground Truth: Building and Augmenting Datasets",
+		"Description": "Examples of large datasets, how they were built and how you can build up your own datasets",
+		"Applications": "How to make a dataset of healthy vs cancerous mammography images."
 	},
 	{
 		"Lecture": "7th March - Image Enhancement (A. Kaestner)",
@@ -50,7 +50,7 @@
 		"Applications": "Determine if/how different a cancerous cell is from a healthly cell properly"
 	},
 	{
-		"Lecture": "9th May - ",
+		"Lecture": "9th May - Guest Lectures",
 		"Description": "How Roche does Microscopy at Scale with High Content Screening and what the important image analysis aspects are",
 		"Applications": "Robust analysis of millions of images for making decisions about pharmaceuticals to pursue"
 	},
