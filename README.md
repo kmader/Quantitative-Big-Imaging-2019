@@ -50,7 +50,7 @@ The course is designed with both advanced undergraduate and graduate level stude
 
 # Slack
 
-For communicating, discussions, asking questions, and everything, we will be trying out Slack this year. You can sign up under the following [link](https://qbi2018.slack.com/shared_invite/MTQ1NDY1OTc1NDYzLTE0ODc3NTE3NDktMDBkOWQwZGUzZg). It isn't mandatory, but it seems to be an effective way to engage collaboratively [How scientists use slack](http://www.nature.com/news/how-scientists-use-slack-1.21228)
+For communicating, discussions, asking questions, and everything, we will be trying out Slack this year. You can sign up under the following [link](https://join.slack.com/t/qbi2019/shared_invite/enQtNTU2NjQwNDU3NjUxLTc0YzA0YTVhNjQxZmNhMzQwZjM4NzlhNWExOWEyNzQzZGJjYWU3N2YyNmM4YTJkOGJlZTFlZGIyMmUwMmY0MmE). It isn't mandatory, but it seems to be an effective way to engage collaboratively [How scientists use slack](http://www.nature.com/news/how-scientists-use-slack-1.21228)
 
 # Lectures
 
