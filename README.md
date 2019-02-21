@@ -6,7 +6,7 @@
 
 Here are the lectures, exercises, and additional course materials corresponding to the spring semester 2019 course at ETH Zurich, [227-0966-00L](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=128120&semkez=2019S&ansicht=KATALOGDATEN&lang=en): Quantitative Big Imaging.
 
-The lectures have been prepared and given by Kevin Mader and associated guest lecturers. Please note the Lecture Slides and PDF do not contain source code, this is only available in the handout file. Some of the lectures will be recorded and placed on YouTube on the [QBI Playlist](https://www.youtube.com/playlist?list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M). The lectures are meant to be followed in chronological order and each lecture has a corresponding hands-on exercises in the exercises section.
+The lectures have been prepared and given by Kevin Mader and associated guest lecturers. Please note the Lecture Slides and PDF do not contain source code, this is only available in the handout file. Some of the lectures will be recorded and placed on YouTube on the [QBI Playlist](https://www.youtube.com/playlist?list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw). The lectures are meant to be followed in chronological order and each lecture has a corresponding hands-on exercises in the exercises section.
 
 ## Learning Objectives
 
@@ -57,7 +57,7 @@ For communicating, discussions, asking questions, and everything, we will be try
 ### 21st February - Introduction and Workflows
 
  - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/01-Introduction.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?filepath=Lectures/01-Introduction.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/01-Introduction.ipynb)
- - [Old Lecture Video](https://www.youtube.com/watch?v=-rMot6mbdN8&t=0s&index=1&list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M)
+ - [Lecture Video](https://www.youtube.com/watch?v=_3UCWECqIHY&list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw&index=3&t=0s)
 
 ### 28th February - Ground Truth: Building and Augmenting Datasets
 
@@ -163,6 +163,12 @@ Presented by Aurelien Lucchi in [Data Analytics Lab](http://www.da.inf.ethz.ch) 
 The exercises are based on the lectures and take place in the same room after the lecture completes. The exercises are designed to offer a tiered level of understanding based on the background of the student. We will (for most lectures) take advantage of an open-source tool called KNIME (www.knime.org), with example workflows here (https://www.knime.org/example-workflows).  The basic exercises will require adding blocks in a workflow and adjusting parameters, while more advanced students will be able to write their own snippets, blocks or plugins to accomplish more complex tasks easily.
 The exercises from two years ago (available [here](http://kmader.github.io/Quantitative-Big-Imaging-2015/) are done entirely in ImageJ and Matlab for students who would prefer to stay in those environments (not recommended)
 
+### Install KNIME
+
+* Windows: https://www.dropbox.com/s/75hx7fdpnpzrh5u/knime_rsna_2018.zip?dl=0
+* Mac: https://www.dropbox.com/s/3tdssp67daadzix/knime_rsna_mac.zip?dl=0
+* (After you extract it move the KNIME.app into the /Applications/ folder)
+
 ## Assistance
 The exercises will be supported by Amogha Pandeshwar and Kevin Mader. There will be office hours in ETZ H75 on Thursdays between 14-15 or by appointment.
 
@@ -173,6 +179,7 @@ The exercises will be available on Kaggle as 'Datasets' and we will be using myb
 
 ### 21st February - Introduction and Workflows
  - [Getting Started with KNIME](Exercises/01-Description.md)
+ - [Introduction to Python and Jupyter for Data-Science](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 ### 28th February - Datasets
  - TBD
