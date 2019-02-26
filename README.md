@@ -6,23 +6,62 @@
 
 Here are the lectures, exercises, and additional course materials corresponding to the spring semester 2019 course at ETH Zurich, [227-0966-00L](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=128120&semkez=2019S&ansicht=KATALOGDATEN&lang=en): Quantitative Big Imaging.
 
-The lectures have been prepared and given by Kevin Mader and associated guest lecturers. Please note the Lecture Slides and PDF do not contain source code, this is only available in the handout file. Some of the lectures will be recorded and placed on YouTube on the [QBI Playlist](https://www.youtube.com/playlist?list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M).
+The lectures have been prepared and given by Kevin Mader and associated guest lecturers. Please note the Lecture Slides and PDF do not contain source code, this is only available in the handout file. Some of the lectures will be recorded and placed on YouTube on the [QBI Playlist](https://www.youtube.com/playlist?list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw). The lectures are meant to be followed in chronological order and each lecture has a corresponding hands-on exercises in the exercises section.
+
+## Learning Objectives
+
+### General
+1. Ability to compare qualitative and quantitative methods and name situations where each would be appropriate
+1. Awareness of the standard process of image processing, the steps involved and the normal order in which they take place
+1. Ability to create and evaluate quantitative metrics to compare the success of different approaches/processes/workflows
+1. Appreciation of automation and which steps it is most appropriate for
+1. The relationship between automation and reproducibility for analysis
+
+### Image Enhancement
+
+1. Awareness of the function enhancement serves and the most commonly used methods
+1. Knowledge of limitations and new problems created when using/overusing these techniques
+
+### Segmentation
+1. Awareness of different types of segmentation approaches and strengths of each
+1. Understanding of when to use automatic methods and when they might fail
+
+### Shape Analysis
+1. Knowledge of which types of metrics are easily calculated for shapes in 2D and 3D
+1. Ability to describe a physical measurement problem in terms of shape metrics
+1. Awareness of common metrics and how they are computed for arbitrary shapes
+
+### Statistics / Big Data
+1. Awareness of common statistical techniques for hypothesis testing
+1. Ability to design basic experiments to test a hypothesis
+1. Ability to analyze and critique poorly designed imaging experiments
+1. Familiarity with vocabulary, tools, and main concepts of big data
+1. Awareness of the differences between normal and big data approaches
+1. Ability to explain MapReduce and apply it to a simple problem
+
+
+## Target Audience
+
+The course is designed with both advanced undergraduate and graduate level students in mind. Ideally students will have some familiarity with basic manipulation and programming in languages like Python (Matlab or R are also reasonable starting points). Much of the material is available as visual workflows in a tool called KNIME, although these are less up to date than the Python material. Interested students who are worried about their skill level in this regard are encouraged to contact Kevin Mader directly (mader@biomed.ee.ethz.ch).
+
+- Students with very diverse academic backgrounds have done well in the course (Informatics to Art History to Agriculture).
+- Successful students typically spent a few hours a week working on the exercises to really understand the material.
+- More advanced students who are already very familiar with Python, C++, or Java are also encouraged to take the course and will have to opportunity to develop more of their own tools or explore topics like machine learning in more detail.
 
 # Slack
 
-For communicating, discussions, asking questions, and everything, we will be trying out Slack this year. You can sign up under the following [link](https://qbi2018.slack.com/shared_invite/MTQ1NDY1OTc1NDYzLTE0ODc3NTE3NDktMDBkOWQwZGUzZg). It isn't mandatory, but it seems to be an effective way to engage collaboratively [How scientists use slack](http://www.nature.com/news/how-scientists-use-slack-1.21228)
+For communicating, discussions, asking questions, and everything, we will be trying out Slack this year. You can sign up under the following [link](https://join.slack.com/t/qbi2019/shared_invite/enQtNTU2NjQwNDU3NjUxLTc0YzA0YTVhNjQxZmNhMzQwZjM4NzlhNWExOWEyNzQzZGJjYWU3N2YyNmM4YTJkOGJlZTFlZGIyMmUwMmY0MmE). It isn't mandatory, but it seems to be an effective way to engage collaboratively [How scientists use slack](http://www.nature.com/news/how-scientists-use-slack-1.21228)
 
 # Lectures
 
 ### 21st February - Introduction and Workflows
 
- - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/01-Introduction.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Lectures/01-Introduction.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/01-Introduction.ipynb)
- - [Lecture Video](https://www.youtube.com/watch?v=-rMot6mbdN8&t=0s&index=1&list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M)
- - [2017 Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/01-Slides.html)
- 
+ - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/01-Introduction.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?filepath=Lectures/01-Introduction.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/01-Introduction.ipynb)
+ - [Lecture Video](https://www.youtube.com/watch?v=_3UCWECqIHY&list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw&index=3&t=0s)
+
 ### 28th February - Ground Truth: Building and Augmenting Datasets
 
- - First time lecture, material in preparation!
+- [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/02-Datasets.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?filepath=Lectures/02-Datasets.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/02-Datasets.ipynb)
 
 ### 7th March - Image Enhancement (Guest Lecture - A. Kaestner)
 
@@ -52,7 +91,7 @@ For communicating, discussions, asking questions, and everything, we will be try
 ### 4th April - Analyzing Single Objects, Shape and Texture
 
  - [Object Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/06-ShapeAnalysis.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Lectures/06-ShapeAnalysis.ipynb) [Object Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/06-ShapeAnalysis.ipynb)
- 
+
 - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/07-AdvancedShapeAndTexture.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Lectures/07-AdvancedShapeAndTexture.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/07-AdvancedShapeAndTexture.ipynb)
 
 - [Lecture Video Part 1](https://www.youtube.com/watch?v=E03dXgqI7rs&index=11&list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M)
@@ -77,7 +116,7 @@ For communicating, discussions, asking questions, and everything, we will be try
 
  - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/10-Statistics.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Lectures/10-Statistics.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/10-Statistics.ipynb)
  - [Lecture Video](https://www.youtube.com/watch?v=n9vjUl0Yqfc&list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M&index=19)
- 
+
  - [Old Lecture Slides](https://rawgit.com/Quantitative-Big-Imaging/Quantitative-Big-Imaging-2017/master/Lectures/08-Slides.html)
  - [Old Lecture Handout](https://rawgit.com/Quantitative-Big-Imaging/Quantitative-Big-Imaging-2017/master/Lectures/08-handout.html)
  - Old Lecture Video: [Part 1](https://youtu.be/UUa9zJtbuW4), [Part 2](https://youtu.be/nYz3_GERV6Q), [Part 3](https://youtu.be/yqWToMDc7u4)
@@ -124,20 +163,27 @@ Presented by Aurelien Lucchi in [Data Analytics Lab](http://www.da.inf.ethz.ch) 
 The exercises are based on the lectures and take place in the same room after the lecture completes. The exercises are designed to offer a tiered level of understanding based on the background of the student. We will (for most lectures) take advantage of an open-source tool called KNIME (www.knime.org), with example workflows here (https://www.knime.org/example-workflows).  The basic exercises will require adding blocks in a workflow and adjusting parameters, while more advanced students will be able to write their own snippets, blocks or plugins to accomplish more complex tasks easily.
 The exercises from two years ago (available [here](http://kmader.github.io/Quantitative-Big-Imaging-2015/) are done entirely in ImageJ and Matlab for students who would prefer to stay in those environments (not recommended)
 
+### Install KNIME
+
+* Windows: https://www.dropbox.com/s/75hx7fdpnpzrh5u/knime_rsna_2018.zip?dl=0
+* Mac: https://www.dropbox.com/s/3tdssp67daadzix/knime_rsna_mac.zip?dl=0
+* (After you extract it move the KNIME.app into the /Applications/ folder)
+
 ## Assistance
 The exercises will be supported by Amogha Pandeshwar and Kevin Mader. There will be office hours in ETZ H75 on Thursdays between 14-15 or by appointment.
 
 ## Online Tools
-The exercises will be available on Kaggle as 'Datasets' and we will be using mybinder as stated above. 
+The exercises will be available on Kaggle as 'Datasets' and we will be using mybinder as stated above.
 
 ## Specific Assignments
 
 ### 21st February - Introduction and Workflows
  - [Getting Started with KNIME](Exercises/01-Description.md)
+ - [Introduction to Python and Jupyter for Data-Science](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 ### 28th February - Datasets
  - TBD
- 
+
 ### 7th March - Image Enhancement (A. Kaestner)
  - [Overview](Exercises/ImageEnhancement.md)
 
@@ -241,6 +287,35 @@ The final examination (as originally stated in the course material) will be a 30
 - [Overview](Projects/Overview.md) of possible projects
 - [Here](https://docs.google.com/spreadsheets/d/1Xvf4I5t-QkgXFBoDJ8BrMA8RTtuZWILfFBRhMjqP8Z8/edit#gid=1920771685) you signup for your project with team members and a short title and description
 
+
+# Software Dependencies
+
+The course, slides and exercises are primarily done using Python 3.6 and Jupyter Notebook 5.5. The binder/repo2docker-compatible environment](https://github.com/jupyter/repo2docker) can be found at [binder/environment.yml](https://github.com/kmader/Quantitative-Big-Imaging-2018/blob/master/binder/environment.yml). A full copy of the environment at the time the class was given is available in the [wiki](https://github.com/kmader/Quantitative-Big-Imaging-2018/wiki/Full-Package-List) file. As many of these packages are frequently updated we have also made a copy of the docker image produced by repo2docker uploaded to Docker Hub at https://hub.docker.com/r/kmader/qbi2018/
+
+## All Lectures
+The packages which are required for all lectures
+- numpy
+- matplotlib
+- scipy
+- scikit-image
+- scikit-learn
+- ipyvolume
+
+## Machine Learning Packages
+For machine learning and big data lectures a few additional packages are required
+- tensorflow
+- pytorch
+- opencv
+- dask
+- dask_ndmeasure
+- dask_ndmorph
+- dask_ndfilter
+
+## Image Registration / Medical Image Data
+For the image registration lecture and medical image data
+- itk
+- SimpleITK
+- itkwidgets
 
 # Other Material
 - Course Wiki (For Questions and Answers, discussions etc, we use the old one)
