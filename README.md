@@ -62,6 +62,7 @@ For communicating, discussions, asking questions, and everything, we will be try
 ### 28th February - Ground Truth: Building and Augmenting Datasets
 
 - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/02-Datasets.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?filepath=Lectures/02-Datasets.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/02-Datasets.ipynb)
+- [Lecture Video](https://www.youtube.com/watch?v=TNZWUU84DLg&list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw&index=4)
 
 ### 7th March - Image Enhancement (Guest Lecture - A. Kaestner)
 
@@ -338,6 +339,7 @@ For the image registration lecture and medical image data
 - [Data Science/Python Introduction Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 - [ETH Deep Learning Course](http://www.da.inf.ethz.ch/teaching/2017/DeepLearning/) taught in the Fall Semester, also uses Python but with a much more intensive mathematical grounding and less focus on images.
 - [FastAI Deep Learning Course](http://course.fast.ai/) and [Part 2](http://course.fast.ai/part2.html) for a very practically focused introduction to Deep Learning using the Python skills developed in QBI.
+- [Deep Learning for Self-Driving Cars at MIT](https://selfdrivingcars.mit.edu/) open to beginners and is designed for those who are new to machine learning, but it can also benefit advanced researchers in the field looking for a practical overview of deep learning methods and their application
 - Reproducible Research
  - [Coursera Course](https://www.coursera.org/course/repdata)
  - [Course and Tools in R](http://kbroman.github.io/Tools4RR/)
