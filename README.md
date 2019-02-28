@@ -182,7 +182,7 @@ The exercises will be available on Kaggle as 'Datasets' and we will be using myb
  - [Introduction to Python and Jupyter for Data-Science](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 ### 28th February - Datasets
- - TBD
+ - [Data Augmentation in KNIME](Exercises/02-augmentation/LungNodules.knar)
 
 ### 7th March - Image Enhancement (A. Kaestner)
  - [Overview](Exercises/ImageEnhancement.md)
