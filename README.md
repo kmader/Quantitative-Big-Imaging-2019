@@ -169,6 +169,21 @@ The exercises from two years ago (available [here](http://kmader.github.io/Quant
 * Mac: https://www.dropbox.com/s/3tdssp67daadzix/knime_rsna_mac.zip?dl=0
 * (After you extract it move the KNIME.app into the /Applications/ folder)
 
+### Install Python
+
+If you use colab, kaggle or mybinder you won't need python on your own machine but if you want to set it up in the same way the class has you can follow the instructions shown in the video [here](https://youtu.be/bnTCLLSpyf0) and below
+1. Install Anaconda Python https://www.anaconda.com/distribution/#download-section
+1. Download the course from github as a zip file
+1. Extract the zip file
+1. Open a terminal (or command prompt on windows)
+1. Go to the binder folder inside the course directory (something like: `Downloads/Quantitative-Big-Imaging-2019-master/binder`)
+1. Install the environment
+1. `conda env create -f environment.yml`
+1. Activate the environment `conda activate qbi2019` or `activate qbi2019`
+1. Go up one directory to the root of the course `cd ..`
+1. Start python `jupyter notebook`
+
+
 ## Assistance
 The exercises will be supported by Amogha Pandeshwar and Kevin Mader. There will be office hours in ETZ H75 on Thursdays between 14-15 or by appointment.
 
