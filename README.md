@@ -66,9 +66,9 @@ For communicating, discussions, asking questions, and everything, we will be try
 
 ### 7th March - Image Enhancement (Guest Lecture - A. Kaestner)
 
- - [Lecture Slides](Lectures/02-ImageEnhancement.pdf)
- - [Lecture Video](https://www.youtube.com/watch?v=NlHRzgdw0p0&list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M&index=3)
- - [![imagetool](https://img.shields.io/badge/launch-image_enhancement_tool-yellow.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?urlpath=%2Fapps%2FExercises%2FImageEnhancementPlayground.ipynb)
+ - [Lecture Slides](Lectures/03-ImageEnhancement.pdf)
+ - [Old Lecture Video](https://www.youtube.com/watch?v=NlHRzgdw0p0&list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M&index=3)
+ - [![imagetool](https://img.shields.io/badge/launch-image_enhancement_tool-yellow.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?urlpath=%2Fapps%2FExercises%2FImageEnhancementPlayground.ipynb)
 
 ### 14th March - Basic Segmentation, Discrete Binary Structures
 
@@ -201,6 +201,7 @@ The exercises will be available on Kaggle as 'Datasets' and we will be using myb
  - [Data Augmentation in KNIME](Exercises/02-augmentation/LungNodules.knar)
 
 ### 7th March - Image Enhancement (A. Kaestner)
+
  - [Overview](Exercises/ImageEnhancement.md)
 
 ### 14th March/21st March - Basic Segmentation, Discrete Binary Structures
