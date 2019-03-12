@@ -11,8 +11,8 @@
 ## Kaggle
 
  - [Kaggle Dataset Overview](https://www.kaggle.com/kmader/qbi-image-segmentation)
- - [Bone Segmentation](https://www.kaggle.com/kmader/d/kmader/qbi-image-segmentation/segmenting-cells-in-bone-data/)
- - [Another Fossil Segmentation](https://www.kaggle.com/kmader/d/kmader/qbi-image-segmentation/teeth-fossil-viewing)
+ - [Bone Segmentation](https://www.kaggle.com/kmader/segmenting-cells-in-bone-data)
+ - [Another Fossil Segmentation](https://www.kaggle.com/kmader/teeth-fossil-viewing)
 
 ## Hard Exercises
 
