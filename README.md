@@ -265,7 +265,7 @@ The final examination (as originally stated in the course material) will be a 30
 
 # Projects
 - [Overview](Projects/Overview.md) of possible projects
-- [Here](https://docs.google.com/spreadsheets/d/1Xvf4I5t-QkgXFBoDJ8BrMA8RTtuZWILfFBRhMjqP8Z8/edit#gid=1920771685) you signup for your project with team members and a short title and description
+- [Here](https://docs.google.com/spreadsheets/d/1Xvf4I5t-QkgXFBoDJ8BrMA8RTtuZWILfFBRhMjqP8Z8/edit#gid=618907183) you signup for your project with team members and a short title and description
 
 
 # Software Dependencies
