@@ -72,10 +72,9 @@ For communicating, discussions, asking questions, and everything, we will be try
 
 ### 14th March - Basic Segmentation, Discrete Binary Structures
 
- - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/03-BasicSegmentation.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Lectures/03-BasicSegmentation.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/03-BasicSegmentation.ipynb)
- - Part 2: [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/03-BasicSegmentation_Part2.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Lectures/03-BasicSegmentation_Part2.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/03-BasicSegmentation_Part2.ipynb)
- - [Lecture Video](https://www.youtube.com/watch?v=EX9856r1pq0&list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M&index=5&t=0s)
- - [Old Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/03-Slides.html) [Old Lecture Handout](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/03-Handout.html) as [PDF](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2015/master/Lectures/03-Handout.pdf)
+ - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/04-BasicSegmentation.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?filepath=Lectures/04-BasicSegmentation.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/04-BasicSegmentation.ipynb)
+ - Part 2: [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/04-BasicSegmentation_Part2.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?filepath=Lectures/04-BasicSegmentation_Part2.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/04-BasicSegmentation_Part2.ipynb)
+ - [Old Lecture Video](https://www.youtube.com/watch?v=EX9856r1pq0&list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M&index=5&t=0s)
 
 ### 21th March - Advanced Segmentation
 
@@ -135,29 +134,6 @@ For communicating, discussions, asking questions, and everything, we will be try
 
 ### 23rd May - Project Presentations
 
-### Additional Lectures from Previous Years
-
-#### Tutorial: Python, Notebooks and Scikit
-
- - Lecture [slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/03-QBI-PythonTutorial.slides.html)
- - [Handout](https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Exercises/03-QBI-PythonTutorial.ipynb)
-
-#### Roads from Aerial Images
-Javier Montoya / Computer Vision / ScopeM
-
- - [Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/11-AerialSlides.pdf)
- - [KNIME Exercises](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Exercises/11-Description.html)
- - [KNIME Workflow](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Exercises/11-files/AerialImages.zip)
- - [IPython Notebook](https://github.com/kmader/Quantitative-Big-Imaging-2016/blob/master/Exercises/11-notebook.ipynb)
- - [Python Data](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Exercises/12-files/lab_images.npz)
- - [IPython Notebook](https://github.com/kmader/Quantitative-Big-Imaging-2016/blob/master/Exercises/12-notebook.ipynb)
-
-#### Introduction to Deep Learning / Machine Learning
-
-Presented by Aurelien Lucchi in [Data Analytics Lab](http://www.da.inf.ethz.ch) in D-INFK at ETHZ
-
- - [Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/12-DeepLearning.pdf)
-
 
 # Exercises
 ## General Information
@@ -206,20 +182,7 @@ The exercises will be available on Kaggle as 'Datasets' and we will be using myb
 
 ### 14th March/21st March - Basic Segmentation, Discrete Binary Structures
 
- - [KNIME Exercises](Exercises/03-Description.md)
- - [Old Workflows](https://github.com/kmader/Quantitative-Big-Imaging-2016/blob/master/Exercises/03-files/Workflows.zip?raw=true)
- - [Python Fossil Segmentation Exercises](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Kaggle_Competitions/03-Fossil.ipynb) or [binder](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Kaggle_Competitions/03-Fossil.ipynb)
- - [Python Nerve Segmentation Exercises](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Kaggle_Competitions/03-Exercises.ipynb) or [binder](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Kaggle_Competitions/03-Exercises.ipynb) or [Kaggle](https://www.kaggle.com/kmader/d/kmader/qbi-image-segmentation/fossil-data-viewing-and-analysis)
-
-#### Kaggle
-
- - [Kaggle Dataset Overview](https://www.kaggle.com/kmader/qbi-image-segmentation)
- - [Bone Segmentation](https://www.kaggle.com/kmader/d/kmader/qbi-image-segmentation/segmenting-cells-in-bone-data/)
- - [Another Fossil Segmentation](https://www.kaggle.com/kmader/d/kmader/qbi-image-segmentation/teeth-fossil-viewing)
-
-#### Hard Exercises
-
- - [Cell Segmentation on Kaggle](https://www.kaggle.com/gaborvecsei/basic-pure-computer-vision-segmentation-lb-0-229) or [binder](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Kaggle_Competitions/CV_CellSegmentation.ipynb)
+ - [Overview](Exercises/04-Segmentation.md)
 
 ### 28th March - Advanced Segmentation / Supervised Segmentation
 
@@ -302,7 +265,7 @@ The final examination (as originally stated in the course material) will be a 30
 
 # Projects
 - [Overview](Projects/Overview.md) of possible projects
-- [Here](https://docs.google.com/spreadsheets/d/1Xvf4I5t-QkgXFBoDJ8BrMA8RTtuZWILfFBRhMjqP8Z8/edit#gid=1920771685) you signup for your project with team members and a short title and description
+- [Here](https://docs.google.com/spreadsheets/d/1Xvf4I5t-QkgXFBoDJ8BrMA8RTtuZWILfFBRhMjqP8Z8/edit#gid=618907183) you signup for your project with team members and a short title and description
 
 
 # Software Dependencies
@@ -348,3 +311,27 @@ For the image registration lecture and medical image data
  - [High Performance Computing for Science and Engineering (HPCSE) I](http://www.cse-lab.ethz.ch/teaching/hpcse-i_hs17/)
  - [Programming Massively Parallel Processors with CUDA](https://itunes.apple.com/us/itunes-u/programming-massively-parallel/id384233322?mt=10)
 - [Introduction to Machine Learning (EPFL)](https://github.com/wildtreetech/advanced-computing-2018)
+
+### Additional Lectures from Previous Years
+
+#### Tutorial: Python, Notebooks and Scikit
+
+ - Lecture [slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/03-QBI-PythonTutorial.slides.html)
+ - [Handout](https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Exercises/03-QBI-PythonTutorial.ipynb)
+
+#### Roads from Aerial Images
+Javier Montoya / Computer Vision / ScopeM
+
+ - [Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/11-AerialSlides.pdf)
+ - [KNIME Exercises](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Exercises/11-Description.html)
+ - [KNIME Workflow](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Exercises/11-files/AerialImages.zip)
+ - [IPython Notebook](https://github.com/kmader/Quantitative-Big-Imaging-2016/blob/master/Exercises/11-notebook.ipynb)
+ - [Python Data](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Exercises/12-files/lab_images.npz)
+ - [IPython Notebook](https://github.com/kmader/Quantitative-Big-Imaging-2016/blob/master/Exercises/12-notebook.ipynb)
+
+#### Introduction to Deep Learning / Machine Learning
+
+Presented by Aurelien Lucchi in [Data Analytics Lab](http://www.da.inf.ethz.ch) in D-INFK at ETHZ
+
+ - [Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/12-DeepLearning.pdf)
+
