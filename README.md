@@ -182,7 +182,7 @@ The exercises will be available on Kaggle as 'Datasets' and we will be using myb
 
 ### 14th March/21st March - Basic Segmentation, Discrete Binary Structures
 
- - [Overview](Exercises/04-Segmentation.md)
+ - [Overview](Exercises/04-Overview.md)
 
 ### 28th March - Advanced Segmentation / Supervised Segmentation
 
