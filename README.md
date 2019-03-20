@@ -78,11 +78,9 @@ For communicating, discussions, asking questions, and everything, we will be try
 
 ### 21th March - Advanced Segmentation
 
- - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/04-AdvancedSegmentation.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Lectures/04-AdvancedSegmentation.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/04-AdvancedSegmentation.ipynb)
- - [Lecture Video](https://www.youtube.com/watch?v=3ZU-4CQ1Ias&index=7&t=0s&list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M)
- - [Old Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/04-Slides.html)
- - [Old Lecture Handout](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/04-Slides_files/04-Handout.html) as [Old PDF](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2015/master/Lectures/04-Handout.pdf)
-
+ - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/05-AdvancedSegmentation.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?filepath=Lectures/05-AdvancedSegmentation.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/05-AdvancedSegmentation.ipynb)
+ - [Old Lecture Video](https://www.youtube.com/watch?v=3ZU-4CQ1Ias&index=7&t=0s&list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M)
+ 
 ###  28th March - Supervised Problems and Segmentation
 
  - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/05-SupervisedApproaches.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Lectures/05-SupervisedApproaches.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/05-SupervisedApproaches.ipynb)
@@ -186,18 +184,7 @@ The exercises will be available on Kaggle as 'Datasets' and we will be using myb
 
 ### 28th March - Advanced Segmentation / Supervised Segmentation
 
- - [KNIME Exercises](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Exercises/04-Description.md)
- - [Python Exercises](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Exercises/04-Exercises.ipynb)
- - [Python Deep Learning](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Exercises/04-CNN.ipynb)
-
-#### Kaggle
-
- - [Kernel for Ultrasound Segmentation - Exercises](https://www.kaggle.com/kmader/ultrasound-nerve-segmentation/qbi-advanced-image-segmentation/)
- - [Kernel for Superpixels on PETCT](https://www.kaggle.com/kmader/d/4quant/soft-tissue-sarcoma/superpixels-on-petct-for-labeling)
- - [Kernel for K-Means on Temporal/Video Data](https://www.kaggle.com/kmader/d/kmader/circadian-rhythm-in-the-brain/k-means-clustering-on-neurons)
- - [Advanced Kernel Predicting Malignancy using Superpixels](https://www.kaggle.com/kmader/d/4quant/soft-tissue-sarcoma/predicting-malignancy-in-superpixels)
- - [Multispectral / Hyperspectral Data](https://www.kaggle.com/kmader/d/xiaozhouwang/multispectralimages/data-overview)
-
+ - [Overview](Exercises/05-Overview.md)
 
 ###  4th April - Analyzing Shapes/Texture Analysis
 
