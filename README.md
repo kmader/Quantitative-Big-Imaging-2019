@@ -74,7 +74,8 @@ For communicating, discussions, asking questions, and everything, we will be try
 
  - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/04-BasicSegmentation.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?filepath=Lectures/04-BasicSegmentation.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/04-BasicSegmentation.ipynb)
  - Part 2: [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/04-BasicSegmentation_Part2.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?filepath=Lectures/04-BasicSegmentation_Part2.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/04-BasicSegmentation_Part2.ipynb)
- - [Old Lecture Video](https://www.youtube.com/watch?v=EX9856r1pq0&list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M&index=5&t=0s)
+ 
+ - [Lecture Video](https://www.youtube.com/watch?v=LFwHVO5zDzY&index=5&list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw)
 
 ### 21th March - Advanced Segmentation
 
@@ -82,7 +83,7 @@ For communicating, discussions, asking questions, and everything, we will be try
  
  - Part 2: [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/05-SupervisedSegmentation.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?filepath=Lectures/05-SupervisedSegmentation.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/05-SupervisedSegmentation.ipynb) 
  
- - [Old Lecture Video](https://www.youtube.com/watch?v=3ZU-4CQ1Ias&index=7&t=0s&list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M) [Part 2](https://www.youtube.com/watch?v=nGgFXlal_OA&index=9&list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M)
+ - [Lecture Video](https://www.youtube.com/watch?v=wIEstgKwEro&list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw&index=8&t=0s)
 
 ### 28th March - Analyzing Single Objects, Shape and Texture
 
@@ -286,10 +287,10 @@ For the image registration lecture and medical image data
 - itkwidgets
 
 # Other Material
-- Course Wiki (For Questions and Answers, discussions etc, we use the old one)
- - [Main Page](https://github.com/kmader/Quantitative-Big-Imaging-2016/wiki/)
+
 - [Data Science/Python Introduction Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 - [ETH Deep Learning Course](http://www.da.inf.ethz.ch/teaching/2017/DeepLearning/) taught in the Fall Semester, also uses Python but with a much more intensive mathematical grounding and less focus on images.
+- [EPFL Deep Learning Course](https://fleuret.org/ee559/) taught in the Spring Semester by Francois Fleuret, uses Python and PyTorch covers theoretical topics and more advanced research topics with a number of applications and code.
 - [FastAI Deep Learning Course](http://course.fast.ai/) and [Part 2](http://course.fast.ai/part2.html) for a very practically focused introduction to Deep Learning using the Python skills developed in QBI.
 - [Deep Learning for Self-Driving Cars at MIT](https://selfdrivingcars.mit.edu/) open to beginners and is designed for those who are new to machine learning, but it can also benefit advanced researchers in the field looking for a practical overview of deep learning methods and their application
 - Reproducible Research
