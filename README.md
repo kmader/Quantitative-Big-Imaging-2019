@@ -87,12 +87,12 @@ For communicating, discussions, asking questions, and everything, we will be try
 
 ### 28th March - Analyzing Single Objects, Shape and Texture
 
- - [Object Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/06-ShapeAnalysis.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Lectures/06-ShapeAnalysis.ipynb) [Object Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/06-ShapeAnalysis.ipynb)
+ - Part 1: [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/06-ShapeAnalysis.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?filepath=Lectures/06-ShapeAnalysis.ipynb) [Object Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/06-ShapeAnalysis.ipynb)
 
-- [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/07-AdvancedShapeAndTexture.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Lectures/07-AdvancedShapeAndTexture.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/07-AdvancedShapeAndTexture.ipynb)
+- Part 2: [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/06-AdvancedShapeAndTexture.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?filepath=Lectures/06-AdvancedShapeAndTexture.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/06-AdvancedShapeAndTexture.ipynb)
 
-- [Lecture Video Part 1](https://www.youtube.com/watch?v=E03dXgqI7rs&index=11&list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M)
-- [Lecture Video Part 2](https://www.youtube.com/watch?v=_kEEu0RhCt0&t=0s&index=12&list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M)
+- Lecture Video
+- [Old Lecture Video Part 1](https://www.youtube.com/watch?v=E03dXgqI7rs&index=11&list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M)
 
 
 ### 4th April - Analyzing Complex Objects and Distributions
