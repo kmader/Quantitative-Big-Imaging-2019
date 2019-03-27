@@ -87,12 +87,12 @@ For communicating, discussions, asking questions, and everything, we will be try
 
 ### 28th March - Analyzing Single Objects, Shape and Texture
 
- - [Object Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/06-ShapeAnalysis.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Lectures/06-ShapeAnalysis.ipynb) [Object Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/06-ShapeAnalysis.ipynb)
+ - Part 1: [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/06-ShapeAnalysis.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?filepath=Lectures/06-ShapeAnalysis.ipynb) [Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/06-ShapeAnalysis.ipynb)
 
-- [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/07-AdvancedShapeAndTexture.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Lectures/07-AdvancedShapeAndTexture.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/07-AdvancedShapeAndTexture.ipynb)
+- Part 2: [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/06-AdvancedShapeAndTexture.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?filepath=Lectures/06-AdvancedShapeAndTexture.ipynb) [Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/06-AdvancedShapeAndTexture.ipynb)
 
-- [Lecture Video Part 1](https://www.youtube.com/watch?v=E03dXgqI7rs&index=11&list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M)
-- [Lecture Video Part 2](https://www.youtube.com/watch?v=_kEEu0RhCt0&t=0s&index=12&list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M)
+- Lecture Video
+- [Old Lecture Video](https://www.youtube.com/watch?v=E03dXgqI7rs&index=11&list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M)
 
 
 ### 4th April - Analyzing Complex Objects and Distributions
@@ -174,34 +174,24 @@ The exercises will be available on Kaggle as 'Datasets' and we will be using myb
  - [Introduction to Python and Jupyter for Data-Science](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 ### 28th February - Datasets
- - [Data Augmentation in KNIME](Exercises/02-augmentation/LungNodules.knar)
+
+- [Data Augmentation in KNIME](Exercises/02-augmentation/LungNodules.knar)
 
 ### 7th March - Image Enhancement (A. Kaestner)
 
- - [Overview](Exercises/ImageEnhancement.md)
+- [Overview](Exercises/ImageEnhancement.md)
 
 ### 14th March/21st March - Basic Segmentation, Discrete Binary Structures
 
- - [Overview](Exercises/04-Overview.md)
+- [Overview](Exercises/04-Overview.md)
 
 ### 28th March - Advanced Segmentation / Supervised Segmentation
 
- - [Overview](Exercises/05-Overview.md)
+- [Overview](Exercises/05-Overview.md)
 
 ###  4th April - Analyzing Shapes/Texture Analysis
 
-#### Basic
- - [KNIME Exercises](https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Exercises/05-Description.md)
- - [Kaggle EM Cell Segmentation Intro](https://www.kaggle.com/kmader/d/kmader/electron-microscopy-3d-segmentation/qbi-single-object-analysis/) and [![slides](https://img.shields.io/badge/interactive-notebook-blue.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Exercises/06-Exercises.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Exercises/06-Exercises.ipynb)
- - [Kaggle MNIST Shape Analysis](https://www.kaggle.com/kmader/digit-recognizer/qbi2017-single-object-analysis)
-
-### 4th April - Advanced Shape and Texture Analysis
-
-- [KNIME Exercises](https://github.com/kmader/Quantitative-Big-Imaging-2016/blob/master/Exercises/06-Description.md)
-- [Kaggle Texture Analysis scikit-image](https://www.kaggle.com/kmader/qbi-texture-analysis)
-- [Kaggle Radiomics Analysis](https://www.kaggle.com/kmader/qbi-radiomics-analysis)
-- [Paraview Curvature](https://github.com/kmader/Quantitative-Big-Imaging-2016/blob/master/Exercises/06-files/CurvatureContour.pvsm)
-- [Python Exercises](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Exercises/07-AdvShape.ipynb)
+- [Overview](Exercises/06-Overview.md)
 
 ### 11th April - Many Objects and Distributions
 - [Battery Dataset](https://www.kaggle.com/kmader/battery-3d-images) The battery dataset along with Kernels for basic preprocessing and analysis.
