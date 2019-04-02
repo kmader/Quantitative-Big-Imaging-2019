@@ -52,38 +52,60 @@ The course is designed with both advanced undergraduate and graduate level stude
 
 For communicating, discussions, asking questions, and everything, we will be trying out Slack this year. You can sign up under the following [link](https://join.slack.com/t/qbi2019/shared_invite/enQtNTU2NjQwNDU3NjUxLTc0YzA0YTVhNjQxZmNhMzQwZjM4NzlhNWExOWEyNzQzZGJjYWU3N2YyNmM4YTJkOGJlZTFlZGIyMmUwMmY0MmE). It isn't mandatory, but it seems to be an effective way to engage collaboratively [How scientists use slack](http://www.nature.com/news/how-scientists-use-slack-1.21228)
 
-# Lectures
+# Weekly Plan
 
 ### 21st February - Introduction and Workflows
 
- - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/01-Introduction.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?filepath=Lectures/01-Introduction.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/01-Introduction.ipynb)
- - [Lecture Video](https://www.youtube.com/watch?v=_3UCWECqIHY&list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw&index=3&t=0s)
+- [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/01-Introduction.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?filepath=Lectures/01-Introduction.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/01-Introduction.ipynb)
+- [Lecture Video](https://www.youtube.com/watch?v=_3UCWECqIHY&list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw&index=3&t=0s)
+ 
+#### Exercises
+
+- [Getting Started with KNIME](Exercises/01-Description.md)
+- [Introduction to Python and Jupyter for Data-Science](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 ### 28th February - Ground Truth: Building and Augmenting Datasets
 
 - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/02-Datasets.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?filepath=Lectures/02-Datasets.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/02-Datasets.ipynb)
 - [Lecture Video](https://www.youtube.com/watch?v=TNZWUU84DLg&list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw&index=4)
 
+#### Exercises
+
+- [Data Augmentation in KNIME](Exercises/02-augmentation/LungNodules.knar)
+
+
 ### 7th March - Image Enhancement (Guest Lecture - A. Kaestner)
 
- - [Lecture Slides](Lectures/03-ImageEnhancement.pdf)
- - [Old Lecture Video](https://www.youtube.com/watch?v=NlHRzgdw0p0&list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M&index=3)
- - [![imagetool](https://img.shields.io/badge/launch-image_enhancement_tool-yellow.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?urlpath=%2Fapps%2FExercises%2FImageEnhancementPlayground.ipynb)
+- [Lecture Slides](Lectures/03-ImageEnhancement.pdf)
+- [Old Lecture Video](https://www.youtube.com/watch?v=NlHRzgdw0p0&list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M&index=3)
+
+#### Exercises
+
+- [![imagetool](https://img.shields.io/badge/launch-image_enhancement_tool-yellow.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?urlpath=%2Fapps%2FExercises%2FImageEnhancementPlayground.ipynb)
+- [Overview](Exercises/ImageEnhancement.md)
 
 ### 14th March - Basic Segmentation, Discrete Binary Structures
 
- - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/04-BasicSegmentation.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?filepath=Lectures/04-BasicSegmentation.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/04-BasicSegmentation.ipynb)
+- [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/04-BasicSegmentation.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?filepath=Lectures/04-BasicSegmentation.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/04-BasicSegmentation.ipynb)
  - Part 2: [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/04-BasicSegmentation_Part2.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?filepath=Lectures/04-BasicSegmentation_Part2.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/04-BasicSegmentation_Part2.ipynb)
  
  - [Lecture Video](https://www.youtube.com/watch?v=LFwHVO5zDzY&index=5&list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw)
+ 
+#### Exercises
+
+- [Overview](Exercises/04-Overview.md)
 
 ### 21th March - Advanced Segmentation
 
- -  Part 1: [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/05-AdvancedSegmentation.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?filepath=Lectures/05-AdvancedSegmentation.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/05-AdvancedSegmentation.ipynb)
+-  Part 1: [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/05-AdvancedSegmentation.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?filepath=Lectures/05-AdvancedSegmentation.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/05-AdvancedSegmentation.ipynb)
  
- - Part 2: [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/05-SupervisedSegmentation.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?filepath=Lectures/05-SupervisedSegmentation.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/05-SupervisedSegmentation.ipynb) 
+- Part 2: [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/05-SupervisedSegmentation.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?filepath=Lectures/05-SupervisedSegmentation.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/05-SupervisedSegmentation.ipynb) 
  
- - [Lecture Video](https://www.youtube.com/watch?v=wIEstgKwEro&list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw&index=8&t=0s)
+- [Lecture Video](https://www.youtube.com/watch?v=wIEstgKwEro&list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw&index=8&t=0s)
+
+#### Exercises
+
+- [Overview](Exercises/05-Overview.md)
 
 ### 28th March - Analyzing Single Objects, Shape and Texture
 
@@ -93,7 +115,9 @@ For communicating, discussions, asking questions, and everything, we will be try
 
 - [Lecture Video](https://www.youtube.com/watch?v=AwFK7DLkTCI&list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw&index=11&t=3s)
 
+#### Exercises
 
+- [Overview](Exercises/06-Overview.md)
 
 ### 4th April - Analyzing Complex Objects and Distributions
 
@@ -102,22 +126,43 @@ For communicating, discussions, asking questions, and everything, we will be try
  - Old Lecture Video: [Part 1](https://youtu.be/GXg61CZx6Yc), [Part 2](https://youtu.be/8F4ClTTXI2w), [Part 3](https://youtu.be/hkHdpQTlGio), [Part 4](https://youtu.be/UvOPxdKZ3NI)
  - [Old Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/07-Slides.html) [Old Lecture Handout](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/07-Slides_files/07-handout.html)
 
+#### Exercises
+
+- [Battery Dataset](https://www.kaggle.com/kmader/battery-3d-images) The battery dataset along with Kernels for basic preprocessing and analysis.
+- [KNIME Exercises](https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Exercises/07-Description.md)
+- [IPython Notebook (Under development)](https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Exercises/07-notebook.ipynb)
+- [Kaggle Street Network](https://www.kaggle.com/kmader/d/kmader/street-network-segmentation/thresholding-streets)
+- [Kaggle Electron Microscopy Segmentation](https://www.kaggle.com/kmader/d/kmader/electron-microscopy-3d-segmentation/qbi-comple-object-analysis-skeletonization)
+- [Kaggle Python Notebook](https://www.kaggle.com/kmader/d/kmader/qbi-image-enhancement/qbi2017-many-objects-and-distributions/)
+- [Kaggle R Notebook](https://www.kaggle.com/kmader/d/kmader/qbi-image-enhancement/qbi2017-groups-of-objects-and-distributions/notebook)
+
+
 ### 11th April - Dynamic Experiments
 
  - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/09-DynamicExperiments.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Lectures/09-DynamicExperiments.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/09-DynamicExperiments.ipynb)
  - [Lecture Video (silent, technical problems)](https://www.youtube.com/watch?v=K43wDnhk7Ec&index=17&list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M&t=41s), for voice-over use [Old Lecture Video](https://youtu.be/77kmZjiKQYQ)
 
  - [Old Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/09-Slides.html), [Old Lecture Handout](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2015/master/Lectures/10-handout.html),
+ 
+#### Exercises
+
+- [KNIME Exercises](https://rawgithub.com/Quantitative-Big-Imaging/Quantitative-Big-Imaging-2016/master/Exercises/09-Description.html)
+- [Kaggle Neuron Tracking](https://www.kaggle.com/kmader/track-neuron-movement)
+- [Kaggle X-Ray Scan Registration](https://www.kaggle.com/kmader/x-ray-patient-scan-registration)
+
 
 ### 18th April - Statistics, Prediction, and Reproducibility
 
  - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/10-Statistics.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Lectures/10-Statistics.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/10-Statistics.ipynb)
  - [Lecture Video](https://www.youtube.com/watch?v=n9vjUl0Yqfc&list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M&index=19)
 
- - [Old Lecture Slides](https://rawgit.com/Quantitative-Big-Imaging/Quantitative-Big-Imaging-2017/master/Lectures/08-Slides.html)
- - [Old Lecture Handout](https://rawgit.com/Quantitative-Big-Imaging/Quantitative-Big-Imaging-2017/master/Lectures/08-handout.html)
- - Old Lecture Video: [Part 1](https://youtu.be/UUa9zJtbuW4), [Part 2](https://youtu.be/nYz3_GERV6Q), [Part 3](https://youtu.be/yqWToMDc7u4)
- 
+#### Exercises
+
+- [KNIME Exercises](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Exercises/08-Description.html)
+- C. Elegans Dataset on Kaggle [R Notebook](https://www.kaggle.com/kmader/d/kmader/high-content-screening-celegans/qbi-statistics-and-reproducibility-in-r/) or [Python Notebook](https://www.kaggle.com/kmader/d/kmader/high-content-screening-celegans/image-overview)
+- Lung Segmentation [https://www.kaggle.com/kmader/dsb-lung-segmentation-algorithm/notebook](Rule-based Image Processing) and [Simple Neural Network](https://www.kaggle.com/kmader/simple-nn-with-keras)
+
+
  
 ### 2nd May - Scaling Up / Big Data
 
@@ -126,10 +171,26 @@ For communicating, discussions, asking questions, and everything, we will be try
  - [Old Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/10-Slides.html) [Old Lecture Handout](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2015/master/Lectures/11-handout.html) as [PDF](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/10-handout.pdf)
  - Old Lecture Video: [Part 1](https://www.youtube.com/watch?v=DReSAalWzq0&index=19&list=PLTWuXgjdOrnnBtf554bMfKV6n2S6XgcLv) and [Part 2](https://www.youtube.com/watch?v=QNOCCrQZa_E&index=20&list=PLTWuXgjdOrnnBtf554bMfKV6n2S6XgcLv)
 
+#### Exercises
+
+- [KNIME / Spark Exercises](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Exercises/10-Description.md)
+- [Tensorflow DAG Notebook Filtering](https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Exercises/Ex10-UsingTensorflow.ipynb)
+- [Kaggle DAG Notebook for Filtering](https://www.kaggle.com/kmader/simple-dags-in-tensorflow)
+- [Block-based 3D Image Analysis in Dask](https://www.kaggle.com/kmader/3d-image-analysis-using-dask)
+
 
 ### 9th May - Guest Lecture - High Content Screening (M. Prummer)
 
-  - [High Content Screening Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/11-HCSSlides.pdf) - Michael Prummer / Nexus / Roche
+- [High Content Screening Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/11-HCSSlides.pdf) - Michael Prummer / Nexus / Roche
+  
+#### Exercises
+
+- [High Content Screening with C. Elegans](https://www.kaggle.com/kmader/high-content-screening-celegans)
+- Goal is looking at what metrics accurately indicate living or dead worms and building a simple predictive model
+- [Kaggle Overview](https://www.kaggle.com/kmader/d/kmader/high-content-screening-celegans/image-overview)
+- [Shape Analysis](https://www.kaggle.com/kmader/worm-shape-analysis)
+- [Processing in R](https://www.kaggle.com/kmader/basic-analysis-in-r)
+
 
 ### 16th May - TBD
 ### 23rd May - Project Presentations
@@ -166,69 +227,6 @@ The exercises will be supported by Amogha Pandeshwar and Kevin Mader. There will
 
 ## Online Tools
 The exercises will be available on Kaggle as 'Datasets' and we will be using mybinder as stated above.
-
-## Specific Assignments
-
-### 21st February - Introduction and Workflows
- - [Getting Started with KNIME](Exercises/01-Description.md)
- - [Introduction to Python and Jupyter for Data-Science](https://github.com/jakevdp/PythonDataScienceHandbook)
-
-### 28th February - Datasets
-
-- [Data Augmentation in KNIME](Exercises/02-augmentation/LungNodules.knar)
-
-### 7th March - Image Enhancement (A. Kaestner)
-
-- [Overview](Exercises/ImageEnhancement.md)
-
-### 14th March/21st March - Basic Segmentation, Discrete Binary Structures
-
-- [Overview](Exercises/04-Overview.md)
-
-### 28th March - Advanced Segmentation / Supervised Segmentation
-
-- [Overview](Exercises/05-Overview.md)
-
-###  4th April - Analyzing Shapes/Texture Analysis
-
-- [Overview](Exercises/06-Overview.md)
-
-### 11th April - Many Objects and Distributions
-- [Battery Dataset](https://www.kaggle.com/kmader/battery-3d-images) The battery dataset along with Kernels for basic preprocessing and analysis.
-- [KNIME Exercises](https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Exercises/07-Description.md)
-- [IPython Notebook (Under development)](https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Exercises/07-notebook.ipynb)
-- [Kaggle Street Network](https://www.kaggle.com/kmader/d/kmader/street-network-segmentation/thresholding-streets)
-- [Kaggle Electron Microscopy Segmentation](https://www.kaggle.com/kmader/d/kmader/electron-microscopy-3d-segmentation/qbi-comple-object-analysis-skeletonization)
-- [Kaggle Python Notebook](https://www.kaggle.com/kmader/d/kmader/qbi-image-enhancement/qbi2017-many-objects-and-distributions/)
-- [Kaggle R Notebook](https://www.kaggle.com/kmader/d/kmader/qbi-image-enhancement/qbi2017-groups-of-objects-and-distributions/notebook)
-
-### 18th April - Dynamic Experiments
- - [KNIME Exercises](https://rawgithub.com/Quantitative-Big-Imaging/Quantitative-Big-Imaging-2016/master/Exercises/09-Description.html)
- - [Kaggle Neuron Tracking](https://www.kaggle.com/kmader/track-neuron-movement)
- - [Kaggle X-Ray Scan Registration](https://www.kaggle.com/kmader/x-ray-patient-scan-registration)
-
-### 2nd May - Statistics, Prediction, and Reproducibility
-
- - [KNIME Exercises](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Exercises/08-Description.html)
- - C. Elegans Dataset on Kaggle [R Notebook](https://www.kaggle.com/kmader/d/kmader/high-content-screening-celegans/qbi-statistics-and-reproducibility-in-r/) or [Python Notebook](https://www.kaggle.com/kmader/d/kmader/high-content-screening-celegans/image-overview)
-- Lung Segmentation [https://www.kaggle.com/kmader/dsb-lung-segmentation-algorithm/notebook](Rule-based Image Processing) and [Simple Neural Network](https://www.kaggle.com/kmader/simple-nn-with-keras)
-
-### 9th May - Guest Lecture - High Content Screening (M. Prummer) / Project Presentations
-
-- [High Content Screening with C. Elegans](https://www.kaggle.com/kmader/high-content-screening-celegans)
-- Goal is looking at what metrics accurately indicate living or dead worms and building a simple predictive model
-- [Kaggle Overview](https://www.kaggle.com/kmader/d/kmader/high-content-screening-celegans/image-overview)
-- [Shape Analysis](https://www.kaggle.com/kmader/worm-shape-analysis)
-- [Processing in R](https://www.kaggle.com/kmader/basic-analysis-in-r)
-
-### 16th May - Scaling Up / Big Data
-
- - [KNIME / Spark Exercises](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Exercises/10-Description.md)
- - [Tensorflow DAG Notebook Filtering](https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Exercises/Ex10-UsingTensorflow.ipynb)
- - [Kaggle DAG Notebook for Filtering](https://www.kaggle.com/kmader/simple-dags-in-tensorflow)
- - [Block-based 3D Image Analysis in Dask](https://www.kaggle.com/kmader/3d-image-analysis-using-dask)
-
-### 23st May - Project Presentations
 
 
 # Feedback (as much as possible)
