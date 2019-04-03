@@ -119,22 +119,15 @@ For communicating, discussions, asking questions, and everything, we will be try
 
 - [Overview](Exercises/06-Overview.md)
 
-### 4th April - Analyzing Complex Objects and Distributions
+### 4th April - Analyzing Complex Objects
 
- - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/08-ComplexObjects.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Lectures/08-ComplexObjects.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/08-ComplexObjects.ipynb)
- - [Lecture Video](https://www.youtube.com/watch?v=apDElYtI7jo&t=0s&index=15&list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M)
- - Old Lecture Video: [Part 1](https://youtu.be/GXg61CZx6Yc), [Part 2](https://youtu.be/8F4ClTTXI2w), [Part 3](https://youtu.be/hkHdpQTlGio), [Part 4](https://youtu.be/UvOPxdKZ3NI)
- - [Old Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/07-Slides.html) [Old Lecture Handout](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/07-Slides_files/07-handout.html)
+ - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/07-ComplexObjects.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?filepath=Lectures/07-ComplexObjects.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/07-ComplexObjects.ipynb)
+
+ - [Old Lecture Video](https://www.youtube.com/watch?v=apDElYtI7jo&t=0s&index=15&list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M)
 
 #### Exercises
 
-- [Battery Dataset](https://www.kaggle.com/kmader/battery-3d-images) The battery dataset along with Kernels for basic preprocessing and analysis.
-- [KNIME Exercises](https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Exercises/07-Description.md)
-- [IPython Notebook (Under development)](https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Exercises/07-notebook.ipynb)
-- [Kaggle Street Network](https://www.kaggle.com/kmader/d/kmader/street-network-segmentation/thresholding-streets)
-- [Kaggle Electron Microscopy Segmentation](https://www.kaggle.com/kmader/d/kmader/electron-microscopy-3d-segmentation/qbi-comple-object-analysis-skeletonization)
-- [Kaggle Python Notebook](https://www.kaggle.com/kmader/d/kmader/qbi-image-enhancement/qbi2017-many-objects-and-distributions/)
-- [Kaggle R Notebook](https://www.kaggle.com/kmader/d/kmader/qbi-image-enhancement/qbi2017-groups-of-objects-and-distributions/notebook)
+- [Overview](Exercises/07-Overview.md)
 
 
 ### 11th April - Dynamic Experiments
