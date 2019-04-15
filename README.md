@@ -134,27 +134,29 @@ For communicating, discussions, asking questions, and everything, we will be try
 
  - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/08-DynamicExperiments.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?filepath=Lectures/08-DynamicExperiments.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/08-DynamicExperiments.ipynb)
  
- - [Old Lecture Video (silent, technical problems)](https://www.youtube.com/watch?v=K43wDnhk7Ec&index=17&list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M&t=41s), for voice-over use [Old Lecture Video](https://youtu.be/77kmZjiKQYQ)
- 
+- [Video](https://www.youtube.com/watch?v=RPHtLaUA1_I&list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw&index=15&t=0s)
+
 #### Exercises
+
+- [![slides](https://img.shields.io/badge/Registration-Tutorial-blue.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?filepath=Exercises/Registration101.ipynb) [Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Exercises/Registration101.ipynb)
 
 - [KNIME Exercises](https://rawgithub.com/Quantitative-Big-Imaging/Quantitative-Big-Imaging-2016/master/Exercises/09-Description.html)
 - [Kaggle Neuron Tracking](https://www.kaggle.com/kmader/track-neuron-movement)
 - [Kaggle X-Ray Scan Registration](https://www.kaggle.com/kmader/x-ray-patient-scan-registration)
-- [3D Sem Reconstruction (Under construction](https://www.kaggle.com/kmader/3d-reconstruction-with-feature-extraction)
+- [3D Sem Reconstruction (Under construction)](https://www.kaggle.com/kmader/3d-reconstruction-with-feature-extraction)
 
 
 ### 18th April - Statistics, Prediction, and Reproducibility
 
- - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/10-Statistics.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Lectures/10-Statistics.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/10-Statistics.ipynb)
- - [Lecture Video](https://www.youtube.com/watch?v=n9vjUl0Yqfc&list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M&index=19)
+ - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/09-Statistics.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?filepath=Lectures/09-Statistics.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/09-Statistics.ipynb)
+ 
+ - [Old Lecture Video](https://www.youtube.com/watch?v=n9vjUl0Yqfc&list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M&index=19)
 
 #### Exercises
 
 - [KNIME Exercises](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Exercises/08-Description.html)
 - C. Elegans Dataset on Kaggle [R Notebook](https://www.kaggle.com/kmader/d/kmader/high-content-screening-celegans/qbi-statistics-and-reproducibility-in-r/) or [Python Notebook](https://www.kaggle.com/kmader/d/kmader/high-content-screening-celegans/image-overview)
 - Lung Segmentation [https://www.kaggle.com/kmader/dsb-lung-segmentation-algorithm/notebook](Rule-based Image Processing) and [Simple Neural Network](https://www.kaggle.com/kmader/simple-nn-with-keras)
-
 
  
 ### 2nd May - Scaling Up / Big Data
