@@ -144,6 +144,7 @@ For communicating, discussions, asking questions, and everything, we will be try
 - [Kaggle Neuron Tracking](https://www.kaggle.com/kmader/track-neuron-movement)
 - [Kaggle X-Ray Scan Registration](https://www.kaggle.com/kmader/x-ray-patient-scan-registration)
 - [3D Sem Reconstruction (Under construction)](https://www.kaggle.com/kmader/3d-reconstruction-with-feature-extraction)
+- [Voxel Morph Paper](https://arxiv.org/pdf/1802.02604.pdf) and [Kaggle Example](https://www.kaggle.com/kmader/voxelmorph-demo)
 
 
 ### 18th April - Statistics, Prediction, and Reproducibility
