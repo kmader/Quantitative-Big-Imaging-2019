@@ -270,7 +270,7 @@ For the image registration lecture and medical image data
 # Other Material
 
 - [Data Science/Python Introduction Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
-- [ETH Deep Learning Course](http://www.da.inf.ethz.ch/teaching/2017/DeepLearning/) taught in the Fall Semester, also uses Python but with a much more intensive mathematical grounding and less focus on images.
+- [ETH Deep Learning Course](http://www.da.inf.ethz.ch/teaching/2018/DeepLearning/) taught in the Fall Semester, also uses Python but with a much more intensive mathematical grounding and less focus on images.
 - [EPFL Deep Learning Course](https://fleuret.org/ee559/) taught in the Spring Semester by Francois Fleuret, uses Python and PyTorch covers theoretical topics and more advanced research topics with a number of applications and code.
 - [FastAI Deep Learning Course](http://course.fast.ai/) and [Part 2](http://course.fast.ai/part2.html) for a very practically focused introduction to Deep Learning using the Python skills developed in QBI.
 - [Deep Learning for Self-Driving Cars at MIT](https://selfdrivingcars.mit.edu/) open to beginners and is designed for those who are new to machine learning, but it can also benefit advanced researchers in the field looking for a practical overview of deep learning methods and their application
