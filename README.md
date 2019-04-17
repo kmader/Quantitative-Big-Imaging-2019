@@ -134,6 +134,8 @@ For communicating, discussions, asking questions, and everything, we will be try
 
  - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/08-DynamicExperiments.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?filepath=Lectures/08-DynamicExperiments.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/08-DynamicExperiments.ipynb)
  
+- [Feature Points Slides](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/08-FeaturePoints.ipynb)
+ 
 - [Video](https://www.youtube.com/watch?v=RPHtLaUA1_I&list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw&index=15&t=0s)
 
 #### Exercises
