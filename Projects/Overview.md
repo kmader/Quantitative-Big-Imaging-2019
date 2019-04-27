@@ -36,6 +36,23 @@ Fluorescence signal in neuron cells in the region of the brain responsible for c
  - Do they from chunks or groups, over what range do they work?
  - Are there networks formed from time-precedence?
 
+# Projects of Personal Interest
+
+## Running Analysis from Video
+
+The idea would be to quantify body movement in videos of people running (head, legs, arms, hips) in order to start to classify different types of runners and ultimately provide feedback. Ideally the work could be transformed into an app on the phone and used by runners everywhere. The idea could also be applied to different sports and physical events. 
+
+![Runner](images/running_pose.png?raw=true)
+
+- Example Kernel: https://www.kaggle.com/kmader/running-pose-estimate
+- Code: https://github.com/ildoonet/tf-pose-estimation
+- References: https://github.com/ildoonet/tf-pose-estimation/blob/master/etcs/reference.md
+
+### Questions
+- Can you quantify the difference between fast and slower runners (maybe use race finisher videos or timelapses from a fixed point on the course: https://www.youtube.com/watch?v=jLcGr_EhUgA)
+- Can you identify the difference between amateur and professional racers?
+- Can you predict the winner of a race from the first few seconds?
+- Can you use anomaly detection to determine runners doing incorrect moves?
 
 # Kaggle Projects
 
