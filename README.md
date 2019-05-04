@@ -166,16 +166,16 @@ For communicating, discussions, asking questions, and everything, we will be try
 ### 2nd May - Scaling Up / Big Data
 
  - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/11-ScalingUp.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Lectures/11-ScalingUp.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/11-ScalingUp.ipynb)
- - [Lecture Video](https://www.youtube.com/watch?v=sJbOSaPqsx8&t=0s&list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M&index=22)
- - [Old Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/10-Slides.html) [Old Lecture Handout](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2015/master/Lectures/11-handout.html) as [PDF](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/10-handout.pdf)
- - Old Lecture Video: [Part 1](https://www.youtube.com/watch?v=DReSAalWzq0&index=19&list=PLTWuXgjdOrnnBtf554bMfKV6n2S6XgcLv) and [Part 2](https://www.youtube.com/watch?v=QNOCCrQZa_E&index=20&list=PLTWuXgjdOrnnBtf554bMfKV6n2S6XgcLv)
+ 
+ - [Lecture Video](https://www.youtube.com/watch?v=1cSkd2O9bYE&list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw&index=20)
 
 #### Exercises
 
-- [KNIME / Spark Exercises](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Exercises/10-Description.md)
-- [Tensorflow DAG Notebook Filtering](https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Exercises/Ex10-UsingTensorflow.ipynb)
-- [Kaggle DAG Notebook for Filtering](https://www.kaggle.com/kmader/simple-dags-in-tensorflow)
+- [KNIME / Spark Exercises](https://github.com/Quantitative-Big-Imaging/Quantitative-Big-Imaging-2017/blob/master/Exercises/10-Description.md)
+- [Kaggle DAG Notebook for Filtering with Tensorflow](https://www.kaggle.com/kmader/simple-dags-in-tensorflow)
 - [Block-based 3D Image Analysis in Dask](https://www.kaggle.com/kmader/3d-image-analysis-using-dask)
+
+- [Spark Example on Databricks Cloud](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1698738444120167/3665298589504346/4750003467380621/latest.html)
 
 
 ### 9th May - Guest Lecture - High Content Screening (M. Prummer)
