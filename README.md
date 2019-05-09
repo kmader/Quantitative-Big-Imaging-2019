@@ -180,7 +180,7 @@ For communicating, discussions, asking questions, and everything, we will be try
 
 ### 9th May - Guest Lecture - High Content Screening (M. Prummer)
 
-- [High Content Screening Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/11-HCSSlides.pdf) - Michael Prummer / Nexus / Roche
+- [High Content Screening Slides](https://github.com/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/11-HCSBigData.pdf) - Michael Prummer / Nexus / Roche
   
 #### Exercises
 
