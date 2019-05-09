@@ -185,7 +185,8 @@ For communicating, discussions, asking questions, and everything, we will be try
 #### Exercises
 
 - [High Content Screening with C. Elegans](https://www.kaggle.com/kmader/high-content-screening-celegans)
-- Goal is looking at what metrics accurately indicate living or dead worms and building a simple predictive model
+ - Goal is looking at what metrics accurately indicate living or dead worms and building a simple predictive model
+- [High Content Screening using Dask/Big Data](https://www.kaggle.com/kmader/dask-for-hcs-worm-shape-analysis)
 - [Kaggle Overview](https://www.kaggle.com/kmader/d/kmader/high-content-screening-celegans/image-overview)
 - [Shape Analysis](https://www.kaggle.com/kmader/worm-shape-analysis)
 - [Processing in R](https://www.kaggle.com/kmader/basic-analysis-in-r)
