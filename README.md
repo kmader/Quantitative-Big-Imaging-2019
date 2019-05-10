@@ -180,12 +180,13 @@ For communicating, discussions, asking questions, and everything, we will be try
 
 ### 9th May - Guest Lecture - High Content Screening (M. Prummer)
 
-- [High Content Screening Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/11-HCSSlides.pdf) - Michael Prummer / Nexus / Roche
+- [High Content Screening Slides](https://github.com/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/11-HCSBigData.pdf) - Michael Prummer / Nexus / Roche
   
 #### Exercises
 
 - [High Content Screening with C. Elegans](https://www.kaggle.com/kmader/high-content-screening-celegans)
-- Goal is looking at what metrics accurately indicate living or dead worms and building a simple predictive model
+ - Goal is looking at what metrics accurately indicate living or dead worms and building a simple predictive model
+- [High Content Screening using Dask/Big Data](https://www.kaggle.com/kmader/dask-for-hcs-worm-shape-analysis)
 - [Kaggle Overview](https://www.kaggle.com/kmader/d/kmader/high-content-screening-celegans/image-overview)
 - [Shape Analysis](https://www.kaggle.com/kmader/worm-shape-analysis)
 - [Processing in R](https://www.kaggle.com/kmader/basic-analysis-in-r)
