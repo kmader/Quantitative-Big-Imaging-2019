@@ -192,12 +192,12 @@ For communicating, discussions, asking questions, and everything, we will be try
 - [Processing in R](https://www.kaggle.com/kmader/basic-analysis-in-r)
 
 
-### 16th May - Tracking Live Coding
+### 16th May - Tracking/Dynamic Experiments - Live Coding
 
 - [Aluminum Foam Dataset](https://www.kaggle.com/kmader/aluminum-foam-animation#slice821_tser.avi)
 - [Preprocessing Kernel](https://www.kaggle.com/kmader/aluminum-preprocessing)
 - [Bubble Tracking](https://www.kaggle.com/kmader/tracking-bubbles)
-- [Slides](https://www.youtube.com/watch?v=ytpAWCNCSfc&list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw&index=25&t=0s)
+- [Videos](https://www.youtube.com/watch?v=ytpAWCNCSfc&list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw&index=25&t=0s)
 
 ### 23rd May - Project Presentations
 
