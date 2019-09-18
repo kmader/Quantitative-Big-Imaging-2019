@@ -37,6 +37,7 @@ dependencies:
   - tornado
   - pip:
     - keras==2.2.5
+    - fsspec>=0.3.3
     - git+https://github.com/keras-team/keras-contrib
     - lime==0.1.1.29
     - plotly==2.1.0
