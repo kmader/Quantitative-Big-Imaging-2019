@@ -4,7 +4,6 @@ to hide boring visualisation boilerplate code from users and keep the course int
 """
 
 import matplotlib.pyplot as plt
-import matplotlib.image as mpimg
 import numpy
 from matplotlib import cm
 from mpl_toolkits.mplot3d import Axes3D
@@ -80,16 +79,14 @@ def overlay_RGB_cost(I_list, cost_history, cost_function, cfuncs, x, y, history=
                 colour = ch[:, 2] - numpy.min(ch[:, 2])
                 colour /= numpy.max(colour)
                 if history is None:
-                    for i in range(len(ch)-1):
-                        ax.plot(ch[i:i+2, 0], ch[i:i+2, 1], ch[i:i+2, 2],
-                                color=plt.cm.jet(0.5*(colour[i]+colour[i+1])))
+                    for j in range(len(ch)-1):
+                        ax.plot(ch[j:j+2, 0], ch[j:j+2, 1], ch[j:j+2, 2],
+                                color=plt.cm.jet(0.5*(colour[j]+colour[j+1])))
                 else:
-                    for i in range(max(len(ch)-history, 0), len(ch)-1):
-                        ax.plot(ch[i:i+2, 0], ch[i:i+2, 1], ch[i:i+2, 2],
-                                color=plt.cm.jet(0.5*(colour[i]+colour[i+1])))
+                    for j in range(max(len(ch)-history, 0), len(ch)-1):
+                        ax.plot(ch[j:j+2, 0], ch[j:j+2, 1], ch[j:j+2, 2],
+                                color=plt.cm.jet(0.5*(colour[j]+colour[j+1])))
                 ax.scatter(ch[-1, 0], ch[-1, 1], ch[-1, 2], s=100)
-                l = [x for x in cost_fun]
-                # ax.legend(l)
         else:
 
             cf = cost_fun(I_list[0], I_list[1])
