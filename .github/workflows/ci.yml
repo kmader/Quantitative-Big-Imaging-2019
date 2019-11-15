@@ -34,6 +34,8 @@ jobs:
         jupyter kernelspec list
     - name: Build Everything
       run: |
+        export PATH="$HOME/miniconda3/bin:$PATH"
+        source activate testenv
         shopt -s globstar
         for nb in **/*ipynb; do
           if [[ $nb = *"Kaggle"* ]]; then
