@@ -32,18 +32,36 @@ jobs:
         sh binder/postBuild
         ipython kernel install --user --name testkernel
         jupyter kernelspec list
-    - name: Build Everything
+    - name: Build Lectures
       run: |
         export PATH="$HOME/miniconda3/bin:$PATH"
         source activate testenv
         shopt -s globstar
-        for nb in **/*ipynb; do
+        for nb in Lectures/*ipynb; do
           if [[ $nb = *"Kaggle"* ]]; then
             echo "skipping kaggle kernel $nb";
           else     
             jupyter nbconvert --ExecutePreprocessor.timeout=3600 --ExecutePreprocessor.kernel_name=testkernel --execute "$nb" --to markdown |& tee nb_to_md.txt;
             traceback=$(grep "Traceback (most recent call last):" nb_to_md.txt);
             if [[ $traceback ]]; then
+              echo "$traceback"
+              exit 1;
+            fi;
+          fi;
+        done
+    - name: Build Exercises
+      run: |
+        export PATH="$HOME/miniconda3/bin:$PATH"
+        source activate testenv
+        shopt -s globstar
+        for nb in Exercises/*ipynb; do
+          if [[ $nb = *"Kaggle"* ]]; then
+            echo "skipping kaggle kernel $nb";
+          else     
+            jupyter nbconvert --ExecutePreprocessor.timeout=3600 --ExecutePreprocessor.kernel_name=testkernel --execute "$nb" --to markdown |& tee nb_to_md.txt;
+            traceback=$(grep "Traceback (most recent call last):" nb_to_md.txt);
+            if [[ $traceback ]]; then
+              echo "$traceback"
               exit 1;
             fi;
           fi;
