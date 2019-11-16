@@ -1,8 +1,10 @@
 [![Binder with JupyterLab](https://img.shields.io/badge/launch-jupyterlab-red.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?urlpath=lab)
 [![Build Status](https://travis-ci.org/kmader/Quantitative-Big-Imaging-2019.svg?branch=master)](https://travis-ci.org/kmader/Quantitative-Big-Imaging-2019)
-[![CircleCI](https://circleci.com/gh/kmader/Quantitative-Big-Imaging-2019.svg?style=svg)](https://circleci.com/gh/kmader/Quantitative-Big-Imaging-2019)
+![](https://github.com/kmader/Quantitative-Big-Imaging-2019/workflows/build_notebooks/badge.svg)
 [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/kmader/Quantitative-Big-Imaging-2019.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/kmader/Quantitative-Big-Imaging-2019/context:python)
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/kmader/Quantitative-Big-Imaging-2019.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/kmader/Quantitative-Big-Imaging-2019/alerts/)
+
+
 
 ## Quantitative Big Imaging Course 2019
 
