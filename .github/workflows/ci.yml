@@ -1,4 +1,4 @@
-name: CI
+name: build_notebooks
 
 on: [push]
 
@@ -34,9 +34,9 @@ jobs:
         jupyter kernelspec list
     - name: Build Lectures
       run: |
-        export PATH="$HOME/miniconda3/bin:$PATH"
-        source activate testenv
-        shopt -s globstar
+        export PATH="$HOME/miniconda3/bin:$PATH";
+        source activate testenv;
+        shopt -s globstar;
         for nb in Lectures/*ipynb; do
           if [[ $nb = *"Kaggle"* ]]; then
             echo "skipping kaggle kernel $nb";
@@ -44,16 +44,17 @@ jobs:
             jupyter nbconvert --ExecutePreprocessor.timeout=3600 --ExecutePreprocessor.kernel_name=testkernel --execute "$nb" --to markdown |& tee nb_to_md.txt;
             traceback=$(grep "Traceback (most recent call last):" nb_to_md.txt);
             if [[ $traceback ]]; then
-              echo "$traceback"
+              echo "TB: $traceback";
+              cat nb_to_md.txt;
               exit 1;
             fi;
           fi;
         done
     - name: Build Exercises
       run: |
-        export PATH="$HOME/miniconda3/bin:$PATH"
-        source activate testenv
-        shopt -s globstar
+        export PATH="$HOME/miniconda3/bin:$PATH";
+        source activate testenv;
+        shopt -s globstar;
         for nb in Exercises/*ipynb; do
           if [[ $nb = *"Kaggle"* ]]; then
             echo "skipping kaggle kernel $nb";
@@ -61,7 +62,8 @@ jobs:
             jupyter nbconvert --ExecutePreprocessor.timeout=3600 --ExecutePreprocessor.kernel_name=testkernel --execute "$nb" --to markdown |& tee nb_to_md.txt;
             traceback=$(grep "Traceback (most recent call last):" nb_to_md.txt);
             if [[ $traceback ]]; then
-              echo "$traceback"
+              echo "TB: $traceback";
+              cat nb_to_md.txt;
               exit 1;
             fi;
           fi;
