@@ -13,7 +13,7 @@ jobs:
       run: |
         sudo apt-get update
         sudo apt-get install -y inkscape ghostscript
-        apt-get install -y --no-install-recommends chromium-browser
+        sudo apt-get install -y --no-install-recommends chromium-browser
     - name: Setup environment
       run: |
         mkdir -p download
