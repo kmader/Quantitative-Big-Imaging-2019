@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/kmader/Quantitative-Big-Imaging-2019.svg?branch=master)](https://travis-ci.org/kmader/Quantitative-Big-Imaging-2019)
 ![](https://github.com/kmader/Quantitative-Big-Imaging-2019/workflows/build_notebooks/badge.svg)
+[![Make PDF](https://github.com/kmader/Quantitative-Big-Imaging-2019/workflows/make_pdfs/badge.svg)](https://github.com/kmader/Quantitative-Big-Imaging-2019/releases)
 [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/kmader/Quantitative-Big-Imaging-2019.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/kmader/Quantitative-Big-Imaging-2019/context:python)
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/kmader/Quantitative-Big-Imaging-2019.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/kmader/Quantitative-Big-Imaging-2019/alerts/)
 
@@ -9,7 +10,7 @@
 
 Here are the lectures, exercises, and additional course materials corresponding to the spring semester 2019 course at ETH Zurich, [227-0966-00L](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=128120&semkez=2019S&ansicht=KATALOGDATEN&lang=en): Quantitative Big Imaging.
 
-The lectures have been prepared and given by Kevin Mader and associated guest lecturers. Please note the Lecture Slides and PDF do not contain source code, this is only available in the handout file. Some of the lectures will be recorded and placed on YouTube on the [QBI Playlist](https://www.youtube.com/playlist?list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw). The lectures are meant to be followed in chronological order and each lecture has a corresponding hands-on exercises in the exercises section.
+The lectures have been prepared and given by Kevin Mader and associated guest lecturers. Please note the Lecture Slides and PDF do not contain source code, this is only available in the handout file. Some of the lectures will be recorded and placed on YouTube on the [QBI Playlist](https://www.youtube.com/playlist?list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw). The lectures are meant to be followed in chronological order and each lecture has a corresponding hands-on exercise. The entire lecture set is available as a single PDF file available in the [releases section](https://github.com/kmader/Quantitative-Big-Imaging-2019/releases)
 
 ## Learning Objectives
 
@@ -61,7 +62,7 @@ For communicating, discussions, asking questions, and everything, we will be try
 
 - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/01-Introduction.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?filepath=Lectures/01-Introduction.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/01-Introduction.ipynb)
 - [Lecture Video](https://www.youtube.com/watch?v=_3UCWECqIHY&list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw&index=3&t=0s)
- 
+
 #### Exercises
 
 - [Getting Started with KNIME](Exercises/01-Description.md)
@@ -91,9 +92,9 @@ For communicating, discussions, asking questions, and everything, we will be try
 
 - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/04-BasicSegmentation.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?filepath=Lectures/04-BasicSegmentation.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/04-BasicSegmentation.ipynb)
  - Part 2: [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/04-BasicSegmentation_Part2.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?filepath=Lectures/04-BasicSegmentation_Part2.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/04-BasicSegmentation_Part2.ipynb)
- 
+
  - [Lecture Video](https://www.youtube.com/watch?v=LFwHVO5zDzY&index=5&list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw)
- 
+
 #### Exercises
 
 - [Overview](Exercises/04-Overview.md)
@@ -101,9 +102,9 @@ For communicating, discussions, asking questions, and everything, we will be try
 ### 21th March - Advanced Segmentation
 
 -  Part 1: [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/05-AdvancedSegmentation.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?filepath=Lectures/05-AdvancedSegmentation.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/05-AdvancedSegmentation.ipynb)
- 
-- Part 2: [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/05-SupervisedSegmentation.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?filepath=Lectures/05-SupervisedSegmentation.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/05-SupervisedSegmentation.ipynb) 
- 
+
+- Part 2: [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/05-SupervisedSegmentation.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?filepath=Lectures/05-SupervisedSegmentation.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/05-SupervisedSegmentation.ipynb)
+
 - [Lecture Video](https://www.youtube.com/watch?v=wIEstgKwEro&list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw&index=8&t=0s)
 
 #### Exercises
@@ -136,9 +137,9 @@ For communicating, discussions, asking questions, and everything, we will be try
 ### 11th April - Dynamic Experiments
 
  - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/08-DynamicExperiments.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?filepath=Lectures/08-DynamicExperiments.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/08-DynamicExperiments.ipynb)
- 
+
 - [Feature Points Slides](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/08-FeaturePoints.ipynb)
- 
+
 - [Video](https://www.youtube.com/watch?v=RPHtLaUA1_I&list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw&index=15&t=0s)
 
 #### Exercises
@@ -155,7 +156,7 @@ For communicating, discussions, asking questions, and everything, we will be try
 ### 18th April - Statistics, Prediction, and Reproducibility
 
  - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/09-Statistics.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?filepath=Lectures/09-Statistics.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/09-Statistics.ipynb)
- 
+
 - [Video](https://www.youtube.com/watch?v=ky7tfHkkVd0&list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw&index=17)
 
 
@@ -165,11 +166,11 @@ For communicating, discussions, asking questions, and everything, we will be try
 - C. Elegans Dataset on Kaggle [R Notebook](https://www.kaggle.com/kmader/d/kmader/high-content-screening-celegans/qbi-statistics-and-reproducibility-in-r/) or [Python Notebook](https://www.kaggle.com/kmader/d/kmader/high-content-screening-celegans/image-overview)
 - Lung Segmentation [https://www.kaggle.com/kmader/dsb-lung-segmentation-algorithm/notebook](Rule-based Image Processing) and [Simple Neural Network](https://www.kaggle.com/kmader/simple-nn-with-keras)
 
- 
+
 ### 2nd May - Scaling Up / Big Data
 
  - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/11-ScalingUp.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Lectures/11-ScalingUp.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/11-ScalingUp.ipynb)
- 
+
  - [Lecture Video](https://www.youtube.com/watch?v=1cSkd2O9bYE&list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw&index=20)
 
 #### Exercises
@@ -184,7 +185,7 @@ For communicating, discussions, asking questions, and everything, we will be try
 ### 9th May - Guest Lecture - High Content Screening (M. Prummer)
 
 - [High Content Screening Slides](https://github.com/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/11-HCSBigData.pdf) - Michael Prummer / Nexus / Roche
-  
+
 #### Exercises
 
 - [High Content Screening with C. Elegans](https://www.kaggle.com/kmader/high-content-screening-celegans)
@@ -320,4 +321,3 @@ Javier Montoya / Computer Vision / ScopeM
 Presented by Aurelien Lucchi in [Data Analytics Lab](http://www.da.inf.ethz.ch) in D-INFK at ETHZ
 
  - [Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/12-DeepLearning.pdf)
-

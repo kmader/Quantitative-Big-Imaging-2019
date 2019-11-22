@@ -35,6 +35,7 @@ dependencies:
   - graphviz
   - python-graphviz
   - tornado
+  - pip
   - pip:
     - keras==2.2.5
     - fsspec>=0.3.3
