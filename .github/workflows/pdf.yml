@@ -48,7 +48,7 @@ jobs:
             echo "skipping kaggle kernel $nb";
           else
             jupyter nbconvert --ExecutePreprocessor.timeout=3600 --ExecutePreprocessor.kernel_name=testkernel "$nb" --to html
-            chromium-browser --no-sandbox --headless --disable-gpu --print-to-pdf=$(basename "$nb" .ipynb).pdf file:///data/$(basename "$nb" .ipynb).html
+            chromium-browser --no-sandbox --headless --disable-gpu --print-to-pdf=$(basename "$nb" .ipynb).pdf $(basename "$nb" .ipynb).html
           fi;
         done
         cd ..
