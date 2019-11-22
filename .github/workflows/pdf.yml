@@ -12,8 +12,8 @@ jobs:
     - name: apt_deps
       run: |
         sudo apt-get update
-        sudo apt-get install -y inkscape
-        sudo apt-get install texlive-xetex texlive-fonts-recommended texlive-generic-recommended
+        sudo apt-get install -y inkscape ghostscript
+        apt-get install -y --no-install-recommends chromium-browser
     - name: Setup environment
       run: |
         mkdir -p download
@@ -46,11 +46,20 @@ jobs:
           if [[ $nb = *"Kaggle"* ]]; then
             echo "skipping kaggle kernel $nb";
           else
-            jupyter nbconvert --ExecutePreprocessor.timeout=3600 --ExecutePreprocessor.kernel_name=testkernel "$nb" --to pdf
+            jupyter nbconvert --ExecutePreprocessor.timeout=3600 --ExecutePreprocessor.kernel_name=testkernel "$nb" --to html
+            chromium-browser --no-sandbox --headless --disable-gpu --print-to-pdf=$(basename "$nb" .ipynb).pdf file:///data/$(basename "$nb" .ipynb).html
           fi;
         done
     - name: Collect PDFs
-      run: zip -r pdfs.zip */*.pdf
+      run: |
+        zip -r pdfs.zip */*.pdf
+        zip -ur pdfs.zip */*.html
+        zip -ur pdfs.zip */*/*.png
+    - name: Make Combined
+      run: |
+        git clone https://github.com/bronson/pdfdir
+        pdfdir/pdfdir-join Lectures/
+        zip -ur pdfs.zip Lectures.pdf
     - name: Create Release
       id: create_release
       uses: actions/create-release@v1.0.0

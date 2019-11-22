@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/kmader/Quantitative-Big-Imaging-2019.svg?branch=master)](https://travis-ci.org/kmader/Quantitative-Big-Imaging-2019)
 ![](https://github.com/kmader/Quantitative-Big-Imaging-2019/workflows/build_notebooks/badge.svg)
-![](https://github.com/kmader/Quantitative-Big-Imaging-2019/workflows/make_pdfs/badge.svg)
+[![Make PDF](https://github.com/kmader/Quantitative-Big-Imaging-2019/workflows/make_pdfs/badge.svg)](https://github.com/kmader/Quantitative-Big-Imaging-2019/releases)
 [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/kmader/Quantitative-Big-Imaging-2019.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/kmader/Quantitative-Big-Imaging-2019/context:python)
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/kmader/Quantitative-Big-Imaging-2019.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/kmader/Quantitative-Big-Imaging-2019/alerts/)
 
