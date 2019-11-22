@@ -47,7 +47,7 @@ jobs:
             echo "skipping kaggle kernel $nb";
           else
             jupyter nbconvert --ExecutePreprocessor.timeout=3600 --ExecutePreprocessor.kernel_name=testkernel "$nb" --to html
-            chromium-browser --no-sandbox --headless --disable-gpu --print-to-pdf=$(basename "$nb" .ipynb).pdf file:///data/$(basename "$nb" .ipynb).html
+            chromium-browser --no-sandbox --headless --disable-gpu --print-to-pdf=Lectures/$(basename "$nb" .ipynb).pdf file:///data/$(basename "$nb" .ipynb).html
           fi;
         done
     - name: Collect PDFs
@@ -68,7 +68,7 @@ jobs:
       with:
         tag_name: ${{ github.ref }}
         release_name: Release ${{ github.ref }}
-        draft: false
+        draft: true
         prerelease: false
     - name: Upload Release Asset
       id: upload-release-asset
