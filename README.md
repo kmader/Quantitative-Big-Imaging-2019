@@ -10,7 +10,7 @@
 
 Here are the lectures, exercises, and additional course materials corresponding to the spring semester 2019 course at ETH Zurich, [227-0966-00L](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=128120&semkez=2019S&ansicht=KATALOGDATEN&lang=en): Quantitative Big Imaging.
 
-The lectures have been prepared and given by Kevin Mader and associated guest lecturers. Please note the Lecture Slides and PDF do not contain source code, this is only available in the handout file. Some of the lectures will be recorded and placed on YouTube on the [QBI Playlist](https://www.youtube.com/playlist?list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw). The lectures are meant to be followed in chronological order and each lecture has a corresponding hands-on exercises in the exercises section.
+The lectures have been prepared and given by Kevin Mader and associated guest lecturers. Please note the Lecture Slides and PDF do not contain source code, this is only available in the handout file. Some of the lectures will be recorded and placed on YouTube on the [QBI Playlist](https://www.youtube.com/playlist?list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw). The lectures are meant to be followed in chronological order and each lecture has a corresponding hands-on exercise. The entire lecture set is available as a single PDF file available in the [releases section](https://github.com/kmader/Quantitative-Big-Imaging-2019/releases)
 
 ## Learning Objectives
 
