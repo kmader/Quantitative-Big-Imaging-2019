@@ -28,6 +28,7 @@ jupyter nbextension enable --py --sys-prefix --user itkwidgets
 mkdir $HOME/.kaggle
 echo '{"username":"rsna2017","key":"a9462602a383a39d33576e19fcb2525f"}' > $HOME/.kaggle/kaggle.json
 chmod 600 $HOME/.kaggle/kaggle.json
+jupyter labextension install @kaggle/jupyterlab
 
 # run matplotlib once to generate the font cache
 python -c "import matplotlib as mpl; mpl.use('Agg'); import pylab as plt; fig, ax = plt.subplots(); fig.savefig('test.png')"
