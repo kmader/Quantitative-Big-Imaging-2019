@@ -19,6 +19,7 @@ dependencies:
   - notebook>=5.2.2
   - ipywidgets>=6.0.1
   - ipython>=7.5.0
+  - jupyterlab>=1.1.0
   - pydot
   - h5py
   - scikit-image<=0.20
