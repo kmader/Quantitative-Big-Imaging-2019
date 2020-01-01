@@ -37,6 +37,7 @@ dependencies:
   - tornado
   - pip
   - pip:
+    - napari
     - keras==2.2.5
     - fsspec>=0.3.3
     - git+https://github.com/keras-team/keras-contrib
