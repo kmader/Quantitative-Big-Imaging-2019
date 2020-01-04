@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.org/kmader/Quantitative-Big-Imaging-2019.svg?branch=master)](https://travis-ci.org/kmader/Quantitative-Big-Imaging-2019)
-![](https://github.com/kmader/Quantitative-Big-Imaging-2019/workflows/build_notebooks/badge.svg)
-[![Make PDF](https://github.com/kmader/Quantitative-Big-Imaging-2019/workflows/make_pdfs/badge.svg)](https://github.com/kmader/Quantitative-Big-Imaging-2019/releases)
+[![Build Status](https://travis-ci.org/ImagingLectures/Quantitative-Big-Imaging-2020.svg?branch=master)](https://travis-ci.org/ImagingLectures/Quantitative-Big-Imaging-2020)
+![](https://github.com/imaginglectures/Quantitative-Big-Imaging-2020/workflows/build_notebooks/badge.svg)
+[![Make PDF](https://github.com/imaginglectures/Quantitative-Big-Imaging-2020/workflows/make_pdfs/badge.svg)](https://github.com/imaginglectures/Quantitative-Big-Imaging-2020/releases)
 [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/kmader/Quantitative-Big-Imaging-2019.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/kmader/Quantitative-Big-Imaging-2019/context:python)
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/kmader/Quantitative-Big-Imaging-2019.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/kmader/Quantitative-Big-Imaging-2019/alerts/)
 
@@ -10,7 +10,7 @@
 
 Here are the lectures, exercises, and additional course materials corresponding to the spring semester 2020 course at ETH Zurich, [227-0966-00L](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=136177&semkez=2020S&lang=en): Quantitative Big Imaging.
 
-The lectures have been prepared and given by Kevin Mader and associated guest lecturers. Please note the Lecture Slides and PDF do not contain source code, this is only available in the handout file. Some of the lectures will be recorded and placed on YouTube on the [QBI Playlist](https://www.youtube.com/playlist?list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw). The lectures are meant to be followed in chronological order and each lecture has a corresponding hands-on exercise. The entire lecture set is available as a single PDF file available in the [releases section](https://github.com/kmader/Quantitative-Big-Imaging-2019/releases)
+The lectures were orignally prepared by Kevin Mader and are now given by Anders Kaestner and associated guest lecturers. Please note the Lecture Slides and PDF do not contain source code, this is only available in the handout file. Some of the lectures will be recorded and placed on YouTube on the [QBI Playlist](https://www.youtube.com/playlist?list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw). The lectures are meant to be followed in chronological order and each lecture has a corresponding hands-on exercise. The entire lecture set is available as a single PDF file available in the [releases section](https://github.com/imaginglectures/Quantitative-Big-Imaging-2020/releases)
 
 ## Learning Objectives
 
@@ -46,7 +46,7 @@ The lectures have been prepared and given by Kevin Mader and associated guest le
 
 ## Target Audience
 
-The course is designed with both advanced undergraduate and graduate level students in mind. Ideally students will have some familiarity with basic manipulation and programming in languages like Python (Matlab or R are also reasonable starting points). Much of the material is available as visual workflows in a tool called KNIME, although these are less up to date than the Python material. Interested students who are worried about their skill level in this regard are encouraged to contact Kevin Mader directly (mader@biomed.ee.ethz.ch).
+The course is designed with both advanced undergraduate and graduate level students in mind. Ideally students will have some familiarity with basic manipulation and programming in languages like Python (Matlab or R are also reasonable starting points). Much of the material is available as visual workflows in a tool called KNIME, although these are less up to date than the Python material. Interested students who are worried about their skill level in this regard are encouraged to contact Anders Kaestner directly (anders.kaestner@psi.ch).
 
 - Students with very diverse academic backgrounds have done well in the course (Informatics to Art History to Agriculture).
 - Successful students typically spent a few hours a week working on the exercises to really understand the material.
@@ -233,16 +233,16 @@ If you use colab, kaggle or mybinder you won't need python on your own machine b
 
 
 ## Assistance
-The exercises will be supported by Amogha Pandeshwar and Kevin Mader. There will be office hours in ETZ H75 on Thursdays between 14-15 or by appointment.
+The exercises will be supported by Amogha Pandeshwar and Anders Kaestner. There will be office hours in ETZ H75 on Thursdays between 14-15 or by appointment.
 
 ## Online Tools
 The exercises will be available on Kaggle as 'Datasets' and we will be using mybinder as stated above.
 
 
 # Feedback (as much as possible)
- - Create an [issue](https://github.com/kmader/Quantitative-Big-Imaging-2019/issues) (on the group site that everyone can see and respond to, requires a Github account), [issues from last year](https://github.com/kmader/Quantitative-Big-Imaging-2015/issues)
+ - Create an [issue](https://github.com/imaginglectures/Quantitative-Big-Imaging-2020/issues) (on the group site that everyone can see and respond to, requires a Github account), [issues from last year](https://github.com/kmader/Quantitative-Big-Imaging-2015/issues)
  - Provide anonymous feedback on the course [here](https://docs.google.com/spreadsheet/embeddedform?formkey=dEtIX1ZXMzFacmdhRF9mQVpNaWtWTXc6MA)
- - Or send direct email (slightly less anonymous feedback) to [Kevin](mailto:mader@biomed.ee.ethz.ch)
+ - Or send direct email (slightly less anonymous feedback) to [Anders](mailto:anders.kaestner@psi.ch)
 
 # Final Examination
 
