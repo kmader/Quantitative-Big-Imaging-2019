@@ -79,7 +79,7 @@ For communicating, discussions, asking questions, and everything, we will be try
 
 
 ### 5th March - Image Enhancement 
-[Slides (static)](http://nbviewer.jupyter.org/format/slides/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/03-ImageEnhancement.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Lectures/03-ImageEnhancement.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/03-ImageEnhancement.ipynb)
+- [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/03-ImageEnhancement.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Lectures/03-ImageEnhancement.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/03-ImageEnhancement.ipynb)
 - [Old Lecture Slides](Lectures/03-ImageEnhancement.pdf)
 - [Old Lecture Video](https://www.youtube.com/watch?v=NlHRzgdw0p0&list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M&index=3)
 
