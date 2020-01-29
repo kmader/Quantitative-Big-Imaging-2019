@@ -63,6 +63,7 @@ For communicating, discussions, asking questions, and everything, we will be try
 - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/01-Introduction.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Lectures/01-Introduction.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/01-Introduction.ipynb)
 - [2019 Lecture Video (K. Mader)](https://www.youtube.com/watch?v=_3UCWECqIHY&list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw&index=3&t=0s)
 
+
 #### Exercises
 
 - [Getting Started with KNIME](Exercises/01-Description.md)
@@ -78,12 +79,11 @@ For communicating, discussions, asking questions, and everything, we will be try
 - [Data Augmentation in KNIME](Exercises/02-augmentation/LungNodules.knar)
 
 
-### 7th March - Image Enhancement (Guest Lecture - A. Kaestner)
 
-
+### 5th March - Image Enhancement 
 - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/03-ImageEnhancement.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Lectures/03-ImageEnhancement.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/03-ImageEnhancement.ipynb)
-- [Lecture Slides](Lectures/03-ImageEnhancement.pdf)
-- [Old Lecture Video](https://www.youtube.com/watch?v=NlHRzgdw0p0&list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M&index=3)
+- [Old Lecture Slides](Lectures/03-ImageEnhancement.pdf)
+- [2018 Lecture Video (A. Kaestner)](https://www.youtube.com/watch?v=NlHRzgdw0p0&list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M&index=3)
 
 #### Exercises
 
