@@ -58,17 +58,17 @@ For communicating, discussions, asking questions, and everything, we will be try
 
 # Weekly Plan
 
-### 21st February - Introduction and Workflows
+### 20th February - Introduction and Workflows
 
 - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/01-Introduction.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Lectures/01-Introduction.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/01-Introduction.ipynb)
-- [Old Lecture Video](https://www.youtube.com/watch?v=_3UCWECqIHY&list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw&index=3&t=0s)
+- [Old Lecture Video (K. Mader)](https://www.youtube.com/watch?v=_3UCWECqIHY&list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw&index=3&t=0s)
 
 #### Exercises
 
 - [Getting Started with KNIME](Exercises/01-Description.md)
 - [Introduction to Python and Jupyter for Data-Science](https://github.com/jakevdp/PythonDataScienceHandbook)
 
-### 28th February - Ground Truth: Building and Augmenting Datasets
+### 27th February - Ground Truth: Building and Augmenting Datasets
 
 - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/02-Datasets.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?filepath=Lectures/02-Datasets.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/02-Datasets.ipynb)
 - [Lecture Video](https://www.youtube.com/watch?v=TNZWUU84DLg&list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw&index=4)
@@ -78,9 +78,9 @@ For communicating, discussions, asking questions, and everything, we will be try
 - [Data Augmentation in KNIME](Exercises/02-augmentation/LungNodules.knar)
 
 
-### 7th March - Image Enhancement (Guest Lecture - A. Kaestner)
-
-- [Lecture Slides](Lectures/03-ImageEnhancement.pdf)
+### 5th March - Image Enhancement 
+[Slides (static)](http://nbviewer.jupyter.org/format/slides/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/03-ImageEnhancement.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Lectures/03-ImageEnhancement.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/03-ImageEnhancement.ipynb)
+- [Old Lecture Slides](Lectures/03-ImageEnhancement.pdf)
 - [Old Lecture Video](https://www.youtube.com/watch?v=NlHRzgdw0p0&list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M&index=3)
 
 #### Exercises
