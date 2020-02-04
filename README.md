@@ -1,12 +1,11 @@
 [![Build Status](https://travis-ci.org/ImagingLectures/Quantitative-Big-Imaging-2020.svg?branch=master)](https://travis-ci.org/ImagingLectures/Quantitative-Big-Imaging-2020)
 ![](https://github.com/imaginglectures/Quantitative-Big-Imaging-2020/workflows/build_notebooks/badge.svg)
 [![Make PDF](https://github.com/imaginglectures/Quantitative-Big-Imaging-2020/workflows/make_pdfs/badge.svg)](https://github.com/imaginglectures/Quantitative-Big-Imaging-2020/releases)
+<!--
 [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/kmader/Quantitative-Big-Imaging-2019.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/kmader/Quantitative-Big-Imaging-2019/context:python)
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/kmader/Quantitative-Big-Imaging-2019.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/kmader/Quantitative-Big-Imaging-2019/alerts/)
-
-# This material is about to be prepared for the 2020 lectures
-
-## Quantitative Big Imaging Course 2020 [![Binder with JupyterLab](https://img.shields.io/badge/launch-jupyterlab-red.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?urlpath=lab)
+-->
+## Quantitative Big Imaging Course 2020 [![Binder with JupyterLab](https://img.shields.io/badge/launch-jupyterlab-red.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?urlpath=lab)
 
 Here are the lectures, exercises, and additional course materials corresponding to the spring semester 2020 course at ETH Zurich, [227-0966-00L](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=136177&semkez=2020S&lang=en): Quantitative Big Imaging.
 
@@ -90,7 +89,11 @@ For communicating, discussions, asking questions, and everything, we will be try
 - [![imagetool](https://img.shields.io/badge/launch-image_enhancement_tool-yellow.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?urlpath=%2Fapps%2FExercises%2FImageEnhancementPlayground.ipynb)
 - [Overview](Exercises/ImageEnhancement.md)
 
-### 14th March - Basic Segmentation, Discrete Binary Structures
+<div class="alert alert-danger">
+<b>This material this material to be prepared for the 2020 lectures</b>
+</div>
+
+### 12th March - Basic Segmentation, Discrete Binary Structures
 
 - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/04-BasicSegmentation.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?filepath=Lectures/04-BasicSegmentation.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/04-BasicSegmentation.ipynb)
  - Part 2: [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/04-BasicSegmentation_Part2.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?filepath=Lectures/04-BasicSegmentation_Part2.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/04-BasicSegmentation_Part2.ipynb)
@@ -101,7 +104,7 @@ For communicating, discussions, asking questions, and everything, we will be try
 
 - [Overview](Exercises/04-Overview.md)
 
-### 21th March - Advanced Segmentation
+### 19th March - Advanced Segmentation
 
 -  Part 1: [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/05-AdvancedSegmentation.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?filepath=Lectures/05-AdvancedSegmentation.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/05-AdvancedSegmentation.ipynb)
 
@@ -113,7 +116,7 @@ For communicating, discussions, asking questions, and everything, we will be try
 
 - [Overview](Exercises/05-Overview.md)
 
-### 28th March - Analyzing Single Objects, Shape and Texture
+### 26th March - Analyzing Single Objects, Shape and Texture
 
  - Part 1: [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/06-ShapeAnalysis.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?filepath=Lectures/06-ShapeAnalysis.ipynb) [Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/06-ShapeAnalysis.ipynb)
 
@@ -125,7 +128,7 @@ For communicating, discussions, asking questions, and everything, we will be try
 
 - [Overview](Exercises/06-Overview.md)
 
-### 4th April - Analyzing Complex Objects
+### 2th April - Analyzing Complex Objects
 
  - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/07-ComplexObjects.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?filepath=Lectures/07-ComplexObjects.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/07-ComplexObjects.ipynb)
  - [Lecture Video](https://www.youtube.com/watch?v=tju1A_QvIPU&list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw&index=12)
@@ -136,7 +139,7 @@ For communicating, discussions, asking questions, and everything, we will be try
 - [Overview](Exercises/07-Overview.md)
 
 
-### 11th April - Dynamic Experiments
+### 9th April - Dynamic Experiments
 
  - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/08-DynamicExperiments.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?filepath=Lectures/08-DynamicExperiments.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/08-DynamicExperiments.ipynb)
 
@@ -155,7 +158,7 @@ For communicating, discussions, asking questions, and everything, we will be try
 - [Voxel Morph Paper](https://arxiv.org/pdf/1802.02604.pdf) and [Kaggle Example](https://www.kaggle.com/kmader/voxelmorph-demo)
 
 
-### 18th April - Statistics, Prediction, and Reproducibility
+### 16th April - Statistics, Prediction, and Reproducibility
 
  - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/09-Statistics.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?filepath=Lectures/09-Statistics.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/09-Statistics.ipynb)
 
@@ -169,7 +172,7 @@ For communicating, discussions, asking questions, and everything, we will be try
 - Lung Segmentation [https://www.kaggle.com/kmader/dsb-lung-segmentation-algorithm/notebook](Rule-based Image Processing) and [Simple Neural Network](https://www.kaggle.com/kmader/simple-nn-with-keras)
 
 
-### 2nd May - Scaling Up / Big Data
+### 23rd April - Scaling Up / Big Data
 
  - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/11-ScalingUp.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Lectures/11-ScalingUp.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/11-ScalingUp.ipynb)
 
@@ -184,7 +187,7 @@ For communicating, discussions, asking questions, and everything, we will be try
 - [Spark Example on Databricks Cloud](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1698738444120167/3665298589504346/4750003467380621/latest.html)
 
 
-### 9th May - Guest Lecture - High Content Screening (M. Prummer)
+### 30th April - Guest Lecture - High Content Screening (M. Prummer)
 
 - [High Content Screening Slides](https://github.com/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/11-HCSBigData.pdf) - Michael Prummer / Nexus / Roche
 
@@ -198,14 +201,14 @@ For communicating, discussions, asking questions, and everything, we will be try
 - [Processing in R](https://www.kaggle.com/kmader/basic-analysis-in-r)
 
 
-### 16th May - Tracking/Dynamic Experiments - Live Coding
+### 7th May - Tracking/Dynamic Experiments - Live Coding
 
 - [Aluminum Foam Dataset](https://www.kaggle.com/kmader/aluminum-foam-animation#slice821_tser.avi)
 - [Preprocessing Kernel](https://www.kaggle.com/kmader/aluminum-preprocessing)
 - [Bubble Tracking](https://www.kaggle.com/kmader/tracking-bubbles)
 - [Videos](https://www.youtube.com/watch?v=ytpAWCNCSfc&list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw&index=25&t=0s)
 
-### 23rd May - Project Presentations
+### 14th May - Project Presentations
 
 
 # Exercises
