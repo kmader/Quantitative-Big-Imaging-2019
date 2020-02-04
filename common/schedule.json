@@ -45,22 +45,22 @@
 		"Applications": "Turning a video of foam flow into metrics like speed, average deformation, and reorganization"
 	},
 	{
-		"Lecture": "23rd May - Statistics, Prediction, and Reproducibility",
+		"Lecture": "23rd April - Statistics, Prediction, and Reproducibility",
 		"Description": "Making a statistical analysis from quantified image data, and establishing the precision of the metrics calculated, also more coverage of the steps to making an analysis reproducible",
 		"Applications": "Determine if/how different a cancerous cell is from a healthly cell properly"
 	},
 	{
-		"Lecture": "30th May - Guest Lectures",
+		"Lecture": "30th April - Guest Lectures",
 		"Description": "How Roche does Microscopy at Scale with High Content Screening and what the important image analysis aspects are",
 		"Applications": "Robust analysis of millions of images for making decisions about pharmaceuticals to pursue"
 	},
 	{
-		"Lecture": "16th May - Scaling Up / Big Data",
+		"Lecture": "7th May - Scaling Up / Big Data",
 		"Description": "Performing large scale analyses on clusters and cloud-based machines and an introduction of how to work with 'big data' frameworks",
 		"Applications": "Performing large scale analyses using ETHs clusters and Amazons Cloud Resources, how to do anything with a terabytes of data"
 	},
 	{
-		"Lecture": "7th May - Project Presentations",
+		"Lecture": "14th May - Project Presentations",
 		"Description": "You present your projects",
 		"Applications": ""
 	}
