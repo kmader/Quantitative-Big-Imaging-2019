@@ -89,6 +89,7 @@ For communicating, discussions, asking questions, and everything, we will be try
 - [![imagetool](https://img.shields.io/badge/launch-image_enhancement_tool-yellow.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?urlpath=%2Fapps%2FExercises%2FImageEnhancementPlayground.ipynb)
 - [Overview](Exercises/ImageEnhancement.md)
 
+---
 <div class="alert alert-block alert-danger">
 <b>This material still has to be prepared for the 2020 lectures.</b>
 </div>
