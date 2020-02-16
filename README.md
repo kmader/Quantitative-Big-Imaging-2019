@@ -51,6 +51,7 @@ The course is designed with both advanced undergraduate and graduate level stude
 - Successful students typically spent a few hours a week working on the exercises to really understand the material.
 - More advanced students who are already very familiar with Python, C++, or Java are also encouraged to take the course and will have to opportunity to develop more of their own tools or explore topics like machine learning in more detail.
 
+## Detailed information
 - [Weekly lecture plan](Pages/weeklyplan.md)
 - [Exercises](Pages/exercises.md)
 - [Communication and Feedback](Pages/communication.md)
@@ -64,6 +65,7 @@ The final examination (as originally stated in the course material) will be a 30
 
 
 ## Projects
+The projects are optional, but highly recommended to do as they give better insight in practical problems occurring while analyzing real data. We provide a list of projects, but you can also take the opportunity to extract a fraction of your other ongoing projects like master's or PhD project. Please contact Anders Kaestner in advance if you choose to define your own project.
 - [Overview](Projects/Overview.md) of possible projects
-- [Here](https://docs.google.com/spreadsheets/d/1Xvf4I5t-QkgXFBoDJ8BrMA8RTtuZWILfFBRhMjqP8Z8/edit#gid=618907183) you signup for your project with team members and a short title and description
+- [Here](https://docs.google.com/spreadsheets/d/1n7I2mzSC06tXu3g7NoeoL3LKtA3oFEOGRBHIHXHeGNs/edit?usp=sharing) you signup for your project with team members and a short title and description
 
