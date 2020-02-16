@@ -51,27 +51,19 @@ The course is designed with both advanced undergraduate and graduate level stude
 - Successful students typically spent a few hours a week working on the exercises to really understand the material.
 - More advanced students who are already very familiar with Python, C++, or Java are also encouraged to take the course and will have to opportunity to develop more of their own tools or explore topics like machine learning in more detail.
 
-# Communication and feedback
-## Feedback (as much as possible)
- - Create an [issue](https://github.com/imaginglectures/Quantitative-Big-Imaging-2020/issues) (on the group site that everyone can see and respond to, requires a Github account), [issues from last year](https://github.com/kmader/Quantitative-Big-Imaging-2015/issues)
- - Provide anonymous feedback on the course [here](https://docs.google.com/spreadsheet/embeddedform?formkey=dEtIX1ZXMzFacmdhRF9mQVpNaWtWTXc6MA)
- - Or send direct email (slightly less anonymous feedback) to [Anders](mailto:anders.kaestner@psi.ch)
+- [Weekly lecture plan](Pages/weeklyplan.md)
+- [Exercises](Pages/exercises.md)
+- [Communication and Feedback](Pages/communication.md)
+- [Software dependencise](Pages/dependencies.md)
+- [Other relevant material](Pages/othermaterial.md)
 
-## Slack
-For communicating, discussions, asking questions, and everything, we will be trying out Slack this year. You can sign up under the following [link](https://join.slack.com/t/qbi2019/shared_invite/enQtNTU2NjQwNDU3NjUxLTc0YzA0YTVhNjQxZmNhMzQwZjM4NzlhNWExOWEyNzQzZGJjYWU3N2YyNmM4YTJkOGJlZTFlZGIyMmUwMmY0MmE). It isn't mandatory, but it seems to be an effective way to engage collaboratively [How scientists use slack](http://www.nature.com/news/how-scientists-use-slack-1.21228)
-
-# [Weekly lecture plan](Pages/weeklyplan.md)
-# [Exercises](Pages/exercises.md)
-# [Software dependencise](Pages/dependencies.md)
-# [Other relevant material](Pages/othermaterial.md)
-
-# Final Examination
+## Final Examination
 
 The final examination (as originally stated in the course material) will be a 30 minute oral exam covering the material of the course and its applications to real systems. For students who present a project, they will have the option to use their project for some of the real systems related questions (provided they have sent their slides to [Kevin](mailto:mader@biomed.ee.ethz.ch) after the presentation and bring a printed out copy to the exam including several image slices if not already in the slides).  The exam will cover all the lecture material from Image Enhancement to Scaling Up (the guest lecture will not be covered). Several example questions (not exhaustive) have been collected which might be helpful for preparation.
 - [Practice Questions](https://rawgithub.com/kmader/Quantitative-Big-Imaging-Course/master/PracticeExam/exam.html)
 
 
-# Projects
+## Projects
 - [Overview](Projects/Overview.md) of possible projects
 - [Here](https://docs.google.com/spreadsheets/d/1Xvf4I5t-QkgXFBoDJ8BrMA8RTtuZWILfFBRhMjqP8Z8/edit#gid=618907183) you signup for your project with team members and a short title and description
 
