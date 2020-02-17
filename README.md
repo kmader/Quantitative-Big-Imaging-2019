@@ -60,7 +60,7 @@ The course is designed with both advanced undergraduate and graduate level stude
 
 ## Final Examination
 
-The final examination (as originally stated in the course material) will be a 30 minute oral exam covering the material of the course and its applications to real systems. For students who present a project, they will have the option to use their project for some of the real systems related questions (provided they have sent their slides to [Kevin](mailto:mader@biomed.ee.ethz.ch) after the presentation and bring a printed out copy to the exam including several image slices if not already in the slides).  The exam will cover all the lecture material from Image Enhancement to Scaling Up (the guest lecture will not be covered). Several example questions (not exhaustive) have been collected which might be helpful for preparation.
+The final examination (as originally stated in the course material) will be a 30 minute oral exam covering the material of the course and its applications to real systems. For students who present a project, they will have the option to use their project for some of the real systems related questions (provided they have sent their slides to [Anders](mailto:anders.kaestner@psi.ch) after the presentation and bring a printed out copy to the exam including several image slices if not already in the slides).  The exam will cover all the lecture material from Image Enhancement to Scaling Up (the guest lecture will not be covered). Several example questions (not exhaustive) have been collected which might be helpful for preparation.
 - [Practice Questions](https://rawgithub.com/kmader/Quantitative-Big-Imaging-Course/master/PracticeExam/exam.html)
 
 
