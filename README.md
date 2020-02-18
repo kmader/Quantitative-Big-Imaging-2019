@@ -21,7 +21,6 @@ The lectures were orignally prepared by Kevin Mader and are now given by Anders 
 1. The relationship between automation and reproducibility for analysis
 
 ### Image Enhancement
-
 1. Awareness of the function enhancement serves and the most commonly used methods
 1. Knowledge of limitations and new problems created when using/overusing these techniques
 
@@ -35,13 +34,13 @@ The lectures were orignally prepared by Kevin Mader and are now given by Anders 
 1. Awareness of common metrics and how they are computed for arbitrary shapes
 
 ### Statistics / Big Data
+
 1. Awareness of common statistical techniques for hypothesis testing
 1. Ability to design basic experiments to test a hypothesis
 1. Ability to analyze and critique poorly designed imaging experiments
 1. Familiarity with vocabulary, tools, and main concepts of big data
 1. Awareness of the differences between normal and big data approaches
 1. Ability to explain MapReduce and apply it to a simple problem
-
 
 ## Target Audience
 
@@ -60,7 +59,7 @@ The course is designed with both advanced undergraduate and graduate level stude
 
 ## Final Examination
 
-The final examination (as originally stated in the course material) will be a 30 minute oral exam covering the material of the course and its applications to real systems. For students who present a project, they will have the option to use their project for some of the real systems related questions (provided they have sent their slides to [Kevin](mailto:mader@biomed.ee.ethz.ch) after the presentation and bring a printed out copy to the exam including several image slices if not already in the slides).  The exam will cover all the lecture material from Image Enhancement to Scaling Up (the guest lecture will not be covered). Several example questions (not exhaustive) have been collected which might be helpful for preparation.
+The final examination (as originally stated in the course material) will be a 30 minute oral exam covering the material of the course and its applications to real systems. For students who present a project, they will have the option to use their project for some of the real systems related questions (provided they have sent their slides to [Anders](mailto:anders.kaestner@psi.ch) after the presentation and bring a printed out copy to the exam including several image slices if not already in the slides).  The exam will cover all the lecture material from Image Enhancement to Scaling Up (the guest lecture will not be covered). Several example questions (not exhaustive) have been collected which might be helpful for preparation.
 - [Practice Questions](https://rawgithub.com/kmader/Quantitative-Big-Imaging-Course/master/PracticeExam/exam.html)
 
 
