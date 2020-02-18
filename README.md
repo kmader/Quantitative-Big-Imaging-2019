@@ -14,27 +14,48 @@ The lectures were orignally prepared by Kevin Mader and are now given by Anders 
 ## Learning Objectives
 
 ### General
+<details>
+  
 1. Ability to compare qualitative and quantitative methods and name situations where each would be appropriate
 1. Awareness of the standard process of image processing, the steps involved and the normal order in which they take place
 1. Ability to create and evaluate quantitative metrics to compare the success of different approaches/processes/workflows
 1. Appreciation of automation and which steps it is most appropriate for
 1. The relationship between automation and reproducibility for analysis
 
+</details>
+
 ### Image Enhancement
 
+<details>
+  
 1. Awareness of the function enhancement serves and the most commonly used methods
 1. Knowledge of limitations and new problems created when using/overusing these techniques
 
+</details>
+
 ### Segmentation
+
+<details>
+  
 1. Awareness of different types of segmentation approaches and strengths of each
 1. Understanding of when to use automatic methods and when they might fail
 
+</details>
+
 ### Shape Analysis
+
+<details>
+  
 1. Knowledge of which types of metrics are easily calculated for shapes in 2D and 3D
 1. Ability to describe a physical measurement problem in terms of shape metrics
 1. Awareness of common metrics and how they are computed for arbitrary shapes
 
+</details>
+
 ### Statistics / Big Data
+
+<details>
+
 1. Awareness of common statistical techniques for hypothesis testing
 1. Ability to design basic experiments to test a hypothesis
 1. Ability to analyze and critique poorly designed imaging experiments
@@ -42,6 +63,7 @@ The lectures were orignally prepared by Kevin Mader and are now given by Anders 
 1. Awareness of the differences between normal and big data approaches
 1. Ability to explain MapReduce and apply it to a simple problem
 
+</details>
 
 ## Target Audience
 
