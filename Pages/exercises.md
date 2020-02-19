@@ -1,6 +1,6 @@
 # Exercises
 ## General Information
-The exercises are based on the lectures and take place in the same room after the lecture completes. Links to the exercises are provieded with the lecture slides in the [weekly schedule](weeklyschedule.md) The exercises are designed to offer a tiered level of understanding based on the background of the student. Most exercises are prepared as python notebooks that guides you step by step through the exercises. New python commands will be introduced when needed and links to the manual pages will be provided. This is not a course on python programming, you will learn to use this powerful language for different image processing tasks throughout the course. 
+The exercises are based on the lectures and take place in the same room after the lecture completes. Links to the exercises are provieded with the lecture slides in the [weekly plan](weeklyplan.md) The exercises are designed to offer a tiered level of understanding based on the background of the student. Most exercises are prepared as python notebooks that guides you step by step through the exercises. New python commands will be introduced when needed and links to the manual pages will be provided. This is not a course on python programming, you will learn to use this powerful language for different image processing tasks throughout the course. 
 
 
 
