@@ -7,7 +7,7 @@
 
 
 #### Exercises
-- [Getting started with python for image processing](http://nbviewer.jupyter.org/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Exercises/01-Images/Assignment_01_Images.ipynb)[![Exercises](https://img.shields.io/badge/interactive-Exercises-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Exercises/01-Images/Assignment_01_Images.ipynb) 
+- [Getting started with python for image processing](http://github.com/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Exercises/01-Images)[![Exercises](https://img.shields.io/badge/interactive-Exercises-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Exercises/01-Images/Assignment_01_Images.ipynb) 
 - [Getting Started with KNIME](Exercises/01-Description.md)
 - [Introduction to Python and Jupyter for Data-Science](https://github.com/jakevdp/PythonDataScienceHandbook)
 
