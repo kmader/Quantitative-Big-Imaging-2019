@@ -8,7 +8,7 @@
 
 #### Exercises
 - [Getting started with python for image processing](http://github.com/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Exercises/01-Images)[![Exercises](https://img.shields.io/badge/interactive-Exercises-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Exercises/01-Images/Assignment_01_Images.ipynb) 
-- [Getting Started with KNIME](Exercises/01-Description.md)
+- [Getting Started with KNIME](../Exercises/01-Description.md)
 - [Introduction to Python and Jupyter for Data-Science](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 ### 27th February - Image Enhancement 
@@ -19,7 +19,7 @@
 #### Exercises
 
 - [![imagetool](https://img.shields.io/badge/launch-image_enhancement_tool-yellow.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?urlpath=%2Fapps%2FExercises%2FImageEnhancementPlayground.ipynb)
-- [Overview](Exercises/ImageEnhancement.md)
+- [Overview](../Exercises/ImageEnhancement.md)
 
 
 
