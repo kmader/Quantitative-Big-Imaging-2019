@@ -30,7 +30,7 @@
 
 #### Exercises
 
-- [Data Augmentation in KNIME](Exercises/02-augmentation/LungNodules.knar)
+- [Data Augmentation in KNIME](../Exercises/02-augmentation/LungNodules.knar)
 
 
 
@@ -48,7 +48,7 @@
 
 #### Exercises
 
-- [Overview](Exercises/04-Overview.md)
+- [Overview](../Exercises/04-Overview.md)
 
 ### 19th March - Advanced Segmentation
 
@@ -60,7 +60,7 @@
 
 #### Exercises
 
-- [Overview](Exercises/05-Overview.md)
+- [Overview](../Exercises/05-Overview.md)
 
 ### 26th March - Analyzing Single Objects, Shape and Texture
 
@@ -72,7 +72,7 @@
 
 #### Exercises
 
-- [Overview](Exercises/06-Overview.md)
+- [Overview](../Exercises/06-Overview.md)
 
 ### 2th April - Analyzing Complex Objects
 
@@ -82,7 +82,7 @@
 
 #### Exercises
 
-- [Overview](Exercises/07-Overview.md)
+- [Overview](../Exercises/07-Overview.md)
 
 
 ### 9th April - Dynamic Experiments
