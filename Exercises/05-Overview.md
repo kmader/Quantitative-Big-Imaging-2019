@@ -12,6 +12,6 @@
  - [Advanced Kernel Predicting Malignancy using Superpixels](https://www.kaggle.com/kmader/d/4quant/soft-tissue-sarcoma/predicting-malignancy-in-superpixels)
  <!-- [Multispectral / Hyperspectral Data](https://www.kaggle.com/kmader/d/xiaozhouwang/multispectralimages/data-overview) -->
 
-### KNIME
+<!--### KNIME-->
 
  <!-- [KNIME Exercises](http://nbviewer.jupyter.org/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Exercises/05-Description.md) -->
