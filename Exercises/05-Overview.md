@@ -14,4 +14,4 @@
 
 ### KNIME
 
- - [KNIME Exercises](http://nbviewer.jupyter.org/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Exercises/05-Description.md)
+ <!-- [KNIME Exercises](http://nbviewer.jupyter.org/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Exercises/05-Description.md) -->
