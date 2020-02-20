@@ -1,6 +1,6 @@
 ## Image enhancement exercises
 - For all exercises it is important to take the starting data
-  - [Starting Data](https://github.com/imagingectures/Quantitative-Big-Imaging-Course/blob/master/Ex2/matlab.zip?raw=true)
+  - [Starting Data](https://github.com/ImagingLectures/Quantitative-Big-Imaging-2020/blob/master/Ex2/matlab.zip?raw=true)
 
 #### Binder (Python)
 For students experienced in Python there are the binder Notebooks
