@@ -6,7 +6,7 @@ The exercises are based on the lectures and take place in the same room after th
 
 ### Alternatives to using python
 The is also the possiblity to use an open-source tool called KNIME (www.knime.org), with example workflows here (https://www.knime.org/example-workflows).  The basic exercises will require adding blocks in a workflow and adjusting parameters, while more advanced students will be able to write their own snippets, blocks or plugins to accomplish more complex tasks easily.
-The exercises from two years ago (available [here](http://kmader.github.io/Quantitative-Big-Imaging-2015/) are done entirely in ImageJ and Matlab for students who would prefer to stay in those environments (not recommended)
+The exercises from four years ago (available [here](http://kmader.github.io/Quantitative-Big-Imaging-2015/) are done entirely in ImageJ and Matlab for students who would prefer to stay in those environments (not recommended)
 
 ### Install Python
 
@@ -27,6 +27,26 @@ If you use colab, kaggle or mybinder you won't need python on your own machine b
 * Windows: https://www.dropbox.com/s/75hx7fdpnpzrh5u/knime_rsna_2018.zip?dl=0
 * Mac: https://www.dropbox.com/s/3tdssp67daadzix/knime_rsna_mac.zip?dl=0
 * (After you extract it move the KNIME.app into the /Applications/ folder)
+
+### Install Git and clone the lecturematerial
+
+1. Follow the instructions to [install git](https://www.atlassian.com/git/tutorials/install-git).
+2. Clone the lecture repository.
+  1. Go to the github page for [QBI lecture material](https://github.com/ImagingLectures/Quantitative-Big-Imaging-2020)
+  2. Click the clone button ![clone button](figures/clonebutton.png)
+  3. Copy the path ![clone dialog](figures/clonedialog.png)
+  4. Windows: open 'git bash', MacOS/Linux: open a terminal.
+  5. Go to the folder where you want to place the lecture material.
+  6. Type: ```git clone <paste the repository path here> ```, press enter and wait...
+  
+Now you should have a folder called Quantitative-Big-Imaging-2020 at location where you called the clone.
+
+#### Update from git with the latest changes
+1. Open a terminal 
+2. Go to the repository folder 
+3. Type ```git pull``` and wait.
+4. The local folder is updated with the latest changes.
+  
 
 ## Assistance
 The exercises will be supported by Stefano van Gogh and Anders Kaestner. There will be office hours in ETZ H75 on Thursdays between 14-15 or by appointment.
