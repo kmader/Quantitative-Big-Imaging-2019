@@ -1,4 +1,5 @@
-  - For all exercises it is important to take the starting data
+## Image enhancement exercises
+- For all exercises it is important to take the starting data
   - [Starting Data](https://github.com/imagingectures/Quantitative-Big-Imaging-Course/blob/master/Ex2/matlab.zip?raw=true)
 
 #### Binder (Python)
