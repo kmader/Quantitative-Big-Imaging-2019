@@ -17,7 +17,7 @@
 
 #### Exercises
 
-- [Overview](../Exercises/02-ImageEnhancement/02-ImageEnhancement.md)
+- [Overview](http://nbviewer.jupyter.org/format/slides/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Exercises/02-ImageEnhancement/Exercise1-3.ipynb)[![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Exercises/02-ImageEnhancement/Exercise1-3.ipynb)
 - [Slides on non-local means (static)](http://nbviewer.jupyter.org/format/slides/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Exercises/02-ImageEnhancement/02-NonLocalMeansStudy.ipynb)[![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Exercises/02-ImageEnhancement/02-NonLocalMeansStudy.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Exercises/02-ImageEnhancement/02-NonLocalMeansStudy.ipynb)
 - [![imagetool](https://img.shields.io/badge/launch-image_enhancement_tool-yellow.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?urlpath=%2Fapps%2FExercises%2FImageEnhancementPlayground.ipynb)
 
