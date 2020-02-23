@@ -2,7 +2,7 @@
 
 ### 20th February - Introduction and Workflows
 - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/01-Introduction.ipynb) [![Slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Lectures/01-Introduction.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/01-Introduction.ipynb)
-- [2019 Lecture Video (K. Mader)](https://www.youtube.com/watch?v=_3UCWECqIHY&list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw&index=3&t=0s)
+- [Lecture Video part 1](https://youtu.be/J8kzUU7gUTM)
 
 
 #### Exercises
@@ -24,7 +24,7 @@
 ---
 ### 5th March - Ground Truth: Building and Augmenting Datasets
 
-- [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/02-Datasets.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Lectures/02-Datasets.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/02-Datasets.ipynb)
+- [Slides (static)](https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/03-Datasets.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Lectures/02-Datasets.ipynb) [Lecture Handout](https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/03-Datasets.ipynb)
 - [2019 Lecture Video (K. Mader)](https://www.youtube.com/watch?v=TNZWUU84DLg&list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw&index=4)
 
 #### Exercises
