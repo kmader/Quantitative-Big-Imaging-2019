@@ -103,3 +103,6 @@ venv.bak/
 # mypy
 .mypy_cache/
 .Rproj.user
+
+# Mac index files
+.DS_Store
