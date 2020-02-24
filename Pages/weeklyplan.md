@@ -11,6 +11,7 @@
 #### Supporting material for the exercises
 
 [Introduction to Python and Jupyter for Data-Science](https://github.com/jakevdp/PythonDataScienceHandbook)
+
 ---
 
 ### 27th February - Image Enhancement 
