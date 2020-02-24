@@ -1,36 +1,38 @@
 # Weekly Plan
 
 ### 20th February - Introduction and Workflows
-
-- [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/01-Introduction.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Lectures/01-Introduction.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/01-Introduction.ipynb)
-- [2019 Lecture Video (K. Mader)](https://www.youtube.com/watch?v=_3UCWECqIHY&list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw&index=3&t=0s)
+- [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/01-Introduction.ipynb) [![Slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Lectures/01-Introduction.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/01-Introduction.ipynb)
+- Lecture Video [part 1](https://youtu.be/J8kzUU7gUTM), [part 2](https://youtu.be/XO02aFf5tNo)
 
 
 #### Exercises
+- [Getting started with python for image processing](http://github.com/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Exercises/01-Images)[![Exercises](https://img.shields.io/badge/Interactive-Exercises-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Exercises/01-Images/Assignment_01_Images.ipynb) 
+- [Getting Started with KNIME](../Exercises/01-Description.md)
+#### Supporting material for the exercises
+[Introduction to Python and Jupyter for Data-Science](https://github.com/jakevdp/PythonDataScienceHandbook)
+---
 
-- [Getting Started with KNIME](Exercises/01-Description.md)
-- [Introduction to Python and Jupyter for Data-Science](https://github.com/jakevdp/PythonDataScienceHandbook)
+### 27th February - Image Enhancement 
+- [Slides (static)](https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/02-ImageEnhancement.ipynb) [![Slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Lectures/02-ImageEnhancement.ipynb) [Lecture Handout](https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/02-ImageEnhancement.ipynb)
 
-### 27th February - Ground Truth: Building and Augmenting Datasets
+- [Slides on non-local means (static)](https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2020/blob/master/Exercises/02-ImageEnhancement/02-NonLocalMeansStudy.ipynb)[![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Exercises/02-ImageEnhancement/02-NonLocalMeansStudy.ipynb) [Lecture Handout](https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2020/blob/master/Exercises/02-ImageEnhancement/02-NonLocalMeansStudy.ipynb)
+- [2018 Lecture Video (A. Kaestner)](https://www.youtube.com/watch?v=NlHRzgdw0p0&list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M&index=3)
 
-- [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/02-Datasets.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Lectures/02-Datasets.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/02-Datasets.ipynb)
+#### Exercises
+- [Overview](https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2020/blob/master/Exercises/02-ImageEnhancement/Exercises1-3.ipynb)[![slides](https://img.shields.io/badge/Interactive-Exercises-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Exercises/02-ImageEnhancement/Exercises1-3.ipynb)
+- [![imagetool](https://img.shields.io/badge/launch-image_enhancement_tool-yellow.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?urlpath=%2Fapps%2FExercises%2FImageEnhancementPlayground.ipynb)
+
+---
+### 5th March - Ground Truth: Building and Augmenting Datasets
+
+- [Slides (static)](https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/03-Datasets.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Lectures/02-Datasets.ipynb) [Lecture Handout](https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/03-Datasets.ipynb)
 - [2019 Lecture Video (K. Mader)](https://www.youtube.com/watch?v=TNZWUU84DLg&list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw&index=4)
 
 #### Exercises
 
-- [Data Augmentation in KNIME](Exercises/02-augmentation/LungNodules.knar)
+- [Data Augmentation in KNIME](../Exercises/02-augmentation/LungNodules.knar)
 
-
-
-### 5th March - Image Enhancement 
-- [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/03_ImageEnhancement.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Lectures/03_ImageEnhancement.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/03_ImageEnhancement.ipynb)
-- [Old Lecture Slides](Lectures/03-ImageEnhancement.pdf)
-- [2018 Lecture Video (A. Kaestner)](https://www.youtube.com/watch?v=NlHRzgdw0p0&list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M&index=3)
-
-#### Exercises
-
-- [![imagetool](https://img.shields.io/badge/launch-image_enhancement_tool-yellow.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?urlpath=%2Fapps%2FExercises%2FImageEnhancementPlayground.ipynb)
-- [Overview](Exercises/ImageEnhancement.md)
+---
 
 ---
 <div class="alert alert-block alert-danger">
@@ -46,7 +48,7 @@
 
 #### Exercises
 
-- [Overview](Exercises/04-Overview.md)
+- [Overview](../Exercises/04-Overview.md)
 
 ### 19th March - Advanced Segmentation
 
@@ -58,7 +60,7 @@
 
 #### Exercises
 
-- [Overview](Exercises/05-Overview.md)
+- [Overview](../Exercises/05-Overview.md)
 
 ### 26th March - Analyzing Single Objects, Shape and Texture
 
@@ -70,7 +72,7 @@
 
 #### Exercises
 
-- [Overview](Exercises/06-Overview.md)
+- [Overview](../Exercises/06-Overview.md)
 
 ### 2th April - Analyzing Complex Objects
 
@@ -80,7 +82,7 @@
 
 #### Exercises
 
-- [Overview](Exercises/07-Overview.md)
+- [Overview](../Exercises/07-Overview.md)
 
 
 ### 9th April - Dynamic Experiments
@@ -113,7 +115,7 @@
 
 - [KNIME Exercises](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Exercises/08-Description.html)
 - C. Elegans Dataset on Kaggle [R Notebook](https://www.kaggle.com/kmader/d/kmader/high-content-screening-celegans/qbi-statistics-and-reproducibility-in-r/) or [Python Notebook](https://www.kaggle.com/kmader/d/kmader/high-content-screening-celegans/image-overview)
-- Lung Segmentation [https://www.kaggle.com/kmader/dsb-lung-segmentation-algorithm/notebook](Rule-based Image Processing) and [Simple Neural Network](https://www.kaggle.com/kmader/simple-nn-with-keras)
+<!-- Lung Segmentation [https://www.kaggle.com/kmader/dsb-lung-segmentation-algorithm/notebook](Rule-based Image Processing) and [Simple Neural Network](https://www.kaggle.com/kmader/simple-nn-with-keras) -->
 
 
 ### 23rd April - Scaling Up / Big Data
