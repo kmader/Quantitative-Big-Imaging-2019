@@ -22,7 +22,7 @@
 
 #### Exercises
 - [Overview part 1-3](https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2020/blob/master/Exercises/02-ImageEnhancement/Exercises1-3.ipynb)[![slides](https://img.shields.io/badge/Interactive-Exercises-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Exercises/02-ImageEnhancement/Exercises1-3.ipynb)
-- [Overview part 1-3](https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2020/blob/master/Exercises/02-ImageEnhancement/Exercise4.ipynb)[![slides](https://img.shields.io/badge/Interactive-Exercises-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Exercises/02-ImageEnhancement/Exercise4.ipynb)
+- [Overview part 4](https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2020/blob/master/Exercises/02-ImageEnhancement/Exercise4.ipynb)[![slides](https://img.shields.io/badge/Interactive-Exercises-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Exercises/02-ImageEnhancement/Exercise4.ipynb)
 - [![imagetool](https://img.shields.io/badge/launch-image_enhancement_tool-yellow.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?urlpath=%2Fapps%2FExercises%2FImageEnhancementPlayground.ipynb)
 
 ---
