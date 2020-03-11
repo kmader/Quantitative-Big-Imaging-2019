@@ -7,11 +7,12 @@
 -->
 ## Quantitative Big Imaging Course 2020 [![Binder with JupyterLab](https://img.shields.io/badge/launch-jupyterlab-red.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?urlpath=lab)
 
-<div class="alert alert-block alert-danger">
+---
 
-<b>Important information</b> [The QBI lectures continue](Pages/corona.md) also with corona! Online alternatives are offered.
+__Important information:__ 
+[The QBI lectures continue](Pages/corona.md) also with corona! Online alternatives are offered.
 
-</div> 
+--- 
 
 Here are the lectures, exercises, and additional course materials corresponding to the spring semester 2020 course at ETH Zurich, [227-0966-00L](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=136177&semkez=2020S&lang=en): Quantitative Big Imaging.
 
