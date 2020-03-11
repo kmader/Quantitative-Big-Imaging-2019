@@ -29,7 +29,8 @@
 ### 5th March - Ground Truth: Building and Augmenting Datasets
 
 - [Slides (static)](https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/03-Datasets.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Lectures/02-Datasets.ipynb) [Lecture Handout](https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/03-Datasets.ipynb)
-- [2019 Lecture Video (K. Mader)](https://www.youtube.com/watch?v=TNZWUU84DLg&list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw&index=4)
+
+Lecture Video [part 1](https://youtu.be/nRYFKlcbdMM), [part 2](https://youtu.be/yyEasauurtI)
 
 #### Exercises
 
