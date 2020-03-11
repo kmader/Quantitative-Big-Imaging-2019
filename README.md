@@ -7,6 +7,13 @@
 -->
 ## Quantitative Big Imaging Course 2020 [![Binder with JupyterLab](https://img.shields.io/badge/launch-jupyterlab-red.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?urlpath=lab)
 
+---
+
+__Important information:__ 
+[The QBI lectures continue](Pages/coronainfo.md) also with corona! Online alternatives are offered.
+
+--- 
+
 Here are the lectures, exercises, and additional course materials corresponding to the spring semester 2020 course at ETH Zurich, [227-0966-00L](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=136177&semkez=2020S&lang=en): Quantitative Big Imaging.
 
 The lectures were orignally prepared by Kevin Mader and are now given by Anders Kaestner and associated guest lecturers. Please note the Lecture Slides and PDF do not contain source code, this is only available in the handout file. Some of the lectures will be recorded and placed on YouTube on the [QBI 2020 Playlist](https://www.youtube.com/playlist?list=PLcDfeQH_rVdbu7VooFvWA6F9gctY-UUwN). The lectures are meant to be followed in chronological order and each lecture has a corresponding hands-on exercise. The entire lecture set is available as a single PDF file available in the [releases section](https://github.com/imaginglectures/Quantitative-Big-Imaging-2020/releases)
