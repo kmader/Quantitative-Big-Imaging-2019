@@ -10,7 +10,7 @@
 ---
 
 __Important information:__ 
-[The QBI lectures continue](Pages/corona.md) also with corona! Online alternatives are offered.
+[The QBI lectures continue](Pages/coronainfo.md) also with corona! Online alternatives are offered.
 
 --- 
 
