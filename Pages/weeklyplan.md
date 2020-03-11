@@ -46,7 +46,7 @@ Lecture Video [part 1](https://youtu.be/nRYFKlcbdMM), [part 2](https://youtu.be/
 
 #### Exercises
 
-- [Overview](../Exercises/04-Overview.md)
+- [Overview](../Exercises/04-Segmentation/04-Overview.md)
 
 
 ---
