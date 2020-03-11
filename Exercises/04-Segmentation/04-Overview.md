@@ -1,6 +1,5 @@
-
 ## Notebooks / Python
- - [Python Fossil Segmentation Exercises](http://nbviewer.jupyter.org/github/Imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Kaggle_Competitions/04-Fossil.ipynb) or [binder](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Kaggle_Competitions/04-Fossil.ipynb)
+ - [Python Fossil Segmentation Exercises](http://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2020/blob/master/Kaggle_Competitions/04-Fossil.ipynb) or [binder](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Kaggle_Competitions/04-Fossil.ipynb)
  - [Python Nerve Segmentation Exercises](http://nbviewer.jupyter.org/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Kaggle_Competitions/04-Exercises.ipynb) or [binder](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Kaggle_Competitions/04-Exercises.ipynb) or [Kaggle](https://www.kaggle.com/kmader/d/kmader/qbi-image-segmentation/fossil-data-viewing-and-analysis)
 
 ## Kaggle
