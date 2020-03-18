@@ -48,6 +48,7 @@ Lecture Video [part 1](https://youtu.be/nRYFKlcbdMM), [part 2](https://youtu.be/
 
 - [Overview](../Exercises/04-Segmentation/04-Overview.md)
 
+---
 
 ### 19th March - Advanced Segmentation
 
