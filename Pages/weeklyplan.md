@@ -63,7 +63,7 @@ Lecture Video [part 1](https://youtu.be/nRYFKlcbdMM), [part 2](https://youtu.be/
 
 #### Exercises
 
-- [Overview](../Exercises/05-Overview.md)
+- [Overview](../Exercises/05-AdvancedSegmentation/05-Overview.md)
 
 ### 26th March - Analyzing Single Objects, Shape and Texture
 
