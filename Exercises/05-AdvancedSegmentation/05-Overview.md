@@ -1,8 +1,8 @@
 ### Python
 
- - [Python Exercises](http://nbviewer.jupyter.org/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Exercises/05-Exercises.ipynb)
+ - [Python Exercises](http://nbviewer.jupyter.org/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Exercises/05-AdvancedSegmentation/05-Exercises.ipynb)
  
- - [Python Towards Deep Learning](http://nbviewer.jupyter.org/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Exercises/05-CNN.ipynb)
+ - [Python Towards Deep Learning](http://nbviewer.jupyter.org/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Exercises/05-AdvancedSegmentation/05-CNN.ipynb)
 
 ### Kaggle
 

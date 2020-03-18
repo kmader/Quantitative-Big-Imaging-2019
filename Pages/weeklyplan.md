@@ -59,7 +59,7 @@ Lecture Video [part 1](https://youtu.be/nRYFKlcbdMM), [part 2](https://youtu.be/
 
 #### Exercises
 
-- [Overview](../Exercises/05-Overview.md)
+- [Overview](../Exercises/05-AdvancedSegmentation/05-Overview.md)
 
 ---
 <div class="alert alert-block alert-danger">
