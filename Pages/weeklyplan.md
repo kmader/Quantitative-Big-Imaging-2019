@@ -56,7 +56,9 @@ Lecture Video [part 1](https://youtu.be/nRYFKlcbdMM), [part 2](https://youtu.be/
 
 - Part 2: Supervised segmentation [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/05-SupervisedSegmentation.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Lectures/05-SupervisedSegmentation.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/05-SupervisedSegmentation.ipynb)
 
-- Lecture Video [part 1](https://youtu.be) [part 2](https://youtu.be)
+- Lecture Videos
+    - [Part 1: Advanced segmentation](https://youtu.be/tWhOfT9sgnY) 
+    - [Part 2: Supervised segmentation approaches](https://youtu.be/wNXohNppc9w)
 
 #### Exercises
 
