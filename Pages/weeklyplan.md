@@ -2,7 +2,9 @@
 
 ### 20th February - Introduction and Workflows
 - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/01-Introduction.ipynb) [![Slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Lectures/01-Introduction.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/01-Introduction.ipynb)
-- Lecture Video [part 1](https://youtu.be/J8kzUU7gUTM), [part 2](https://youtu.be/XO02aFf5tNo)
+#### Lecture Videos
+- [Part 1](https://youtu.be/J8kzUU7gUTM)
+- [Part 2](https://youtu.be/XO02aFf5tNo)
 
 
 #### Exercises
@@ -30,11 +32,14 @@
 
 - [Slides (static)](https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/03-Datasets.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Lectures/02-Datasets.ipynb) [Lecture Handout](https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/03-Datasets.ipynb)
 
-Lecture Video [part 1](https://youtu.be/nRYFKlcbdMM), [part 2](https://youtu.be/yyEasauurtI)
+#### Lecture Videos
+- [Part 1](https://youtu.be/nRYFKlcbdMM)
+- [Part 2](https://youtu.be/yyEasauurtI)
 
 #### Exercises
 
 - [Data augmentation exercise](https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2020/blob/master/Exercises/03-augmentation/03-AugmentationExercise.ipynb)[![slides](https://img.shields.io/badge/Interactive-Exercises-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Exercises/03-augmentation/03-AugmentationExercise.ipynb)
+
 ---
 
 ### 12th March - Basic Segmentation, Discrete Binary Structures
@@ -42,7 +47,9 @@ Lecture Video [part 1](https://youtu.be/nRYFKlcbdMM), [part 2](https://youtu.be/
 - Part 1: [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/04-BasicSegmentation.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Lectures/04-BasicSegmentation.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/04-BasicSegmentation.ipynb)
  - Part 2: [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/04-BasicSegmentation_Part2.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Lectures/04-BasicSegmentation_Part2.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/04-BasicSegmentation_Part2.ipynb)
 
- - Lecture videos [part 1](https://youtu.be/D9WygDQhB3M), [part 2](https://youtu.be/BGrWqJERRdw)
+#### Lecture videos 
+ - [Part 1](https://youtu.be/D9WygDQhB3M)
+ - [Part 2](https://youtu.be/BGrWqJERRdw)
  
 #### Exercises
 
@@ -56,9 +63,9 @@ Lecture Video [part 1](https://youtu.be/nRYFKlcbdMM), [part 2](https://youtu.be/
 
 - Part 2: Supervised segmentation [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/05-SupervisedSegmentation.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Lectures/05-SupervisedSegmentation.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/05-SupervisedSegmentation.ipynb)
 
-- Lecture Videos
-    - [Part 1: Advanced segmentation](https://youtu.be/tWhOfT9sgnY) 
-    - [Part 2: Supervised segmentation approaches](https://youtu.be/wNXohNppc9w)
+#### Lecture Videos
+- [Part 1: Advanced segmentation](https://youtu.be/tWhOfT9sgnY) 
+- [Part 2: Supervised segmentation approaches](https://youtu.be/wNXohNppc9w)
 
 #### Exercises
 
@@ -72,9 +79,9 @@ Lecture Video [part 1](https://youtu.be/nRYFKlcbdMM), [part 2](https://youtu.be/
 
 - Part 2: [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/06-AdvancedShapeAndTexture.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Lectures/06-AdvancedShapeAndTexture.ipynb) [Handout](http://nbviewer.jupyter.org/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/06-AdvancedShapeAndTexture.ipynb)
 
-- Lecture videos
- - [Part 1: Shape analysis](https://www.youtube.com)
- - [Part 2: Advanced Shape analysis and Textures](https://www.youtube.com)
+#### Lecture videos
+- [Part 1: Shape analysis](https://www.youtube.com)
+- [Part 2: Advanced Shape analysis and Textures](https://www.youtube.com)
 
 #### Exercises
 
