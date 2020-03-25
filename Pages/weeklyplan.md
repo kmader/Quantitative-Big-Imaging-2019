@@ -65,21 +65,25 @@ Lecture Video [part 1](https://youtu.be/nRYFKlcbdMM), [part 2](https://youtu.be/
 - [Overview](../Exercises/05-AdvancedSegmentation/05-Overview.md)
 
 ---
-<div class="alert alert-block alert-danger">
-<b>This material still has to be prepared for the 2020 lectures.</b>
-</div>
 
 ### 26th March - Analyzing Single Objects, Shape and Texture
 
- - Part 1: [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/06-ShapeAnalysis.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?filepath=Lectures/06-ShapeAnalysis.ipynb) [Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/06-ShapeAnalysis.ipynb)
+ - Part 1: [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/06-ShapeAnalysis.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Lectures/06-ShapeAnalysis.ipynb) [Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/06-ShapeAnalysis.ipynb)
 
-- Part 2: [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/06-AdvancedShapeAndTexture.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?filepath=Lectures/06-AdvancedShapeAndTexture.ipynb) [Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/06-AdvancedShapeAndTexture.ipynb)
+- Part 2: [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/06-AdvancedShapeAndTexture.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Lectures/06-AdvancedShapeAndTexture.ipynb) [Handout](http://nbviewer.jupyter.org/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/06-AdvancedShapeAndTexture.ipynb)
 
-- [Lecture Video](https://www.youtube.com/watch?v=AwFK7DLkTCI&list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw&index=11&t=3s)
+- Lecture videos
+ - [Part 1: Shape analysis](https://www.youtube.com)
+ - [Part 2: Advanced Shape analysis and Textures](https://www.youtube.com)
 
 #### Exercises
 
 - [Overview](../Exercises/06-Overview.md)
+
+---
+<div class="alert alert-block alert-danger">
+<b>This material still has to be prepared for the 2020 lectures.</b>
+</div>
 
 ### 2th April - Analyzing Complex Objects
 
