@@ -85,7 +85,7 @@
 
 #### Exercises
 
-- [Overview](../Exercises/06-Overview.md)
+- [Overview](../Exercises/06-Shapes/06-Overview.md)
 
 ---
 <div class="alert alert-block alert-danger">
