@@ -80,8 +80,8 @@
 - Part 2: [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/06-AdvancedShapeAndTexture.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Lectures/06-AdvancedShapeAndTexture.ipynb) [Handout](http://nbviewer.jupyter.org/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/06-AdvancedShapeAndTexture.ipynb)
 
 #### Lecture videos
-- [Part 1: Shape analysis](https://www.youtube.com)
-- [Part 2: Advanced Shape analysis and Textures](https://www.youtube.com)
+- [Part 1: Shape analysis](https://youtu.be/QRYFS8Zjie4)
+- [Part 2: Advanced Shape analysis and Textures](https://youtu.be/UPCrQJhRuck)
 
 #### Exercises
 
