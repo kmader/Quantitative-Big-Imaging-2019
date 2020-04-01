@@ -75,7 +75,7 @@
 
 ### 26th March - Analyzing Single Objects, Shape and Texture
 
- - Part 1: [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/06-ShapeAnalysis.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Lectures/06-ShapeAnalysis.ipynb) [Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/06-ShapeAnalysis.ipynb)
+ - Part 1: [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/06-ShapeAnalysis.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Lectures/06-ShapeAnalysis.ipynb) [Handout](http://nbviewer.jupyter.org/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/06-ShapeAnalysis.ipynb)
 
 - Part 2: [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/06-AdvancedShapeAndTexture.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Lectures/06-AdvancedShapeAndTexture.ipynb) [Handout](http://nbviewer.jupyter.org/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/06-AdvancedShapeAndTexture.ipynb)
 
@@ -88,20 +88,24 @@
 - [Overview](../Exercises/06-Shapes/06-Overview.md)
 
 ---
-<div class="alert alert-block alert-danger">
-<b>This material still has to be prepared for the 2020 lectures.</b>
-</div>
 
 ### 2th April - Analyzing Complex Objects
 
- - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/07-ComplexObjects.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?filepath=Lectures/07-ComplexObjects.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/07-ComplexObjects.ipynb)
- - [Lecture Video](https://www.youtube.com/watch?v=tju1A_QvIPU&list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw&index=12)
- - [Old Lecture Video](https://www.youtube.com/watch?v=apDElYtI7jo&t=0s&index=15&list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M)
+ - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/07-ComplexObjects.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Lectures/07-ComplexObjects.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/07-ComplexObjects.ipynb)
+ 
+ #### Lecture videos
+ - [Part 1: Skeletons](https://www.youtube.com)
+ - [Part 2: Watershed](https://www.youtube.com)
 
 #### Exercises
 
-- [Overview](../Exercises/07-Overview.md)
+- [Overview](../Exercises/07-ComplexObjects/07-Overview.md)
 
+--- 
+
+<div class="alert alert-block alert-danger">
+<b>This material still has to be prepared for the 2020 lectures.</b>
+</div>
 
 ### 9th April - Dynamic Experiments
 
