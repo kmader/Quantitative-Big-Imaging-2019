@@ -1,5 +1,5 @@
 # Skeletons 
-- [Streets and roots](07-Skeletons.ipynd)
+- [Streets and roots](07-Skeletons.ipynd). Analyzing thin structures in 2D and 3D images using skeletons.
 
 ## Exercises from previous years
 ### Python
