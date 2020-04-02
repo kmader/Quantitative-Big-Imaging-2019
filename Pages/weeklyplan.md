@@ -95,7 +95,7 @@
  
  #### Lecture videos
  - [Part 1: Skeletons](https://youtu.be/nPfb-YInWyU)
- - [Part 2: Watershed](https://www.youtube.com)
+ - [Part 2: Watershed segmentation](https://youtu.be/KjysMamJ-LA)
 
 #### Exercises
 
