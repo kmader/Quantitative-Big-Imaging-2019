@@ -94,8 +94,8 @@
  - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/07-ComplexObjects.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Lectures/07-ComplexObjects.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/07-ComplexObjects.ipynb)
  
  #### Lecture videos
- - [Part 1: Skeletons](https://www.youtube.com)
- - [Part 2: Watershed](https://www.youtube.com)
+ - [Part 1: Skeletons](https://youtu.be/nPfb-YInWyU)
+ - [Part 2: Watershed segmentation](https://youtu.be/KjysMamJ-LA)
 
 #### Exercises
 
