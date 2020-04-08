@@ -1,4 +1,6 @@
 # Explore the basics of registration
+### Registration 101
+I recommend working through this tutorial
 - [![slides](https://img.shields.io/badge/Registration-Tutorial-blue.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Exercises/Registration101.ipynb) [Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Exercises/Registration101.ipynb)
 
 ### Kaggle exercises 
