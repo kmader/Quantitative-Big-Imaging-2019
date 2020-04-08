@@ -147,23 +147,9 @@
 
 - [Spark Example on Databricks Cloud](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1698738444120167/3665298589504346/4750003467380621/latest.html)
 
-### 30th April - Guest Lecture 
-The guest lecturer is still to be determined. The date may also be changed depending on availability.
-<!--
-### 30th April - Guest Lecture - High Content Screening (M. Prummer)
+### 30th April - Imaging with multiple modalities 
 
-- [High Content Screening Slides](https://github.com/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/11-HCSBigData.pdf) - Michael Prummer / Nexus / Roche
 
-#### Exercises
-
-- [High Content Screening with C. Elegans](https://www.kaggle.com/kmader/high-content-screening-celegans)
- - Goal is looking at what metrics accurately indicate living or dead worms and building a simple predictive model
-- [High Content Screening using Dask/Big Data](https://www.kaggle.com/kmader/dask-for-hcs-worm-shape-analysis)
-- [Kaggle Overview](https://www.kaggle.com/kmader/d/kmader/high-content-screening-celegans/image-overview)
-- [Shape Analysis](https://www.kaggle.com/kmader/worm-shape-analysis)
-- [Processing in R](https://www.kaggle.com/kmader/basic-analysis-in-r)
-
--->
 
 ### 7th May - Tracking/Dynamic Experiments - Live Coding
 
