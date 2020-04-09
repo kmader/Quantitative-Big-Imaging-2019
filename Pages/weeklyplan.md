@@ -103,28 +103,21 @@
 
 --- 
 
-<div class="alert alert-block alert-danger">
-<b>This material still has to be prepared for the 2020 lectures.</b>
-</div>
-
 ### 9th April - Dynamic Experiments
 
- - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/08-DynamicExperiments.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?filepath=Lectures/08-DynamicExperiments.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/08-DynamicExperiments.ipynb)
+ - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/08-DynamicExperiments.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Lectures/08-DynamicExperiments.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/08-DynamicExperiments.ipynb)
 
-- [Feature Points Slides](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/08-FeaturePoints.ipynb)
+- [Feature Points Slides](http://nbviewer.jupyter.org/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/08-FeaturePoints.ipynb)
 
 - [Video](https://www.youtube.com/watch?v=RPHtLaUA1_I&list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw&index=15&t=0s)
 
 #### Exercises
+- [Overview](../Exercises/08-DynamicExperiments/08-Overview.md)
+--- 
 
-- [![slides](https://img.shields.io/badge/Registration-Tutorial-blue.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?filepath=Exercises/Registration101.ipynb) [Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Exercises/Registration101.ipynb)
-
-- [KNIME Exercises](https://rawgithub.com/Quantitative-Big-Imaging/Quantitative-Big-Imaging-2016/master/Exercises/09-Description.html)
-- [Kaggle Neuron Tracking](https://www.kaggle.com/kmader/track-neuron-movement)
-- [Kaggle X-Ray Scan Registration](https://www.kaggle.com/kmader/x-ray-patient-scan-registration)
-- [3D Sem Reconstruction (Under construction)](https://www.kaggle.com/kmader/3d-reconstruction-with-feature-extraction)
-- [Voxel Morph Paper](https://arxiv.org/pdf/1802.02604.pdf) and [Kaggle Example](https://www.kaggle.com/kmader/voxelmorph-demo)
-
+<div class="alert alert-block alert-danger">
+<b>This material still has to be prepared for the 2020 lectures.</b>
+</div>
 
 ### 16th April - Statistics, Prediction, and Reproducibility
 
@@ -154,23 +147,9 @@
 
 - [Spark Example on Databricks Cloud](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1698738444120167/3665298589504346/4750003467380621/latest.html)
 
-### 30th April - Guest Lecture 
-The guest lecturer is still to be determined. The date may also be changed depending on availability.
-<!--
-### 30th April - Guest Lecture - High Content Screening (M. Prummer)
+### 30th April - Imaging with multiple modalities 
 
-- [High Content Screening Slides](https://github.com/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/11-HCSBigData.pdf) - Michael Prummer / Nexus / Roche
 
-#### Exercises
-
-- [High Content Screening with C. Elegans](https://www.kaggle.com/kmader/high-content-screening-celegans)
- - Goal is looking at what metrics accurately indicate living or dead worms and building a simple predictive model
-- [High Content Screening using Dask/Big Data](https://www.kaggle.com/kmader/dask-for-hcs-worm-shape-analysis)
-- [Kaggle Overview](https://www.kaggle.com/kmader/d/kmader/high-content-screening-celegans/image-overview)
-- [Shape Analysis](https://www.kaggle.com/kmader/worm-shape-analysis)
-- [Processing in R](https://www.kaggle.com/kmader/basic-analysis-in-r)
-
--->
 
 ### 7th May - Tracking/Dynamic Experiments - Live Coding
 
