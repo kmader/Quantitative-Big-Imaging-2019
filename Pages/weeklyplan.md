@@ -109,7 +109,9 @@
 
 - [Feature Points Slides](http://nbviewer.jupyter.org/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/08-FeaturePoints.ipynb)
 
-- [Video](https://www.youtube.com/watch?v=RPHtLaUA1_I&list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw&index=15&t=0s)
+#### Lecture videos
+- [Part 1: Dynamic experiments and object tracking](https://youtu.be/_aCiYQ7ih8M)
+- [Part 2: Registration](https://youtu.be/h43lRG3ENYE)
 
 #### Exercises
 - [Overview](../Exercises/08-DynamicExperiments/08-Overview.md)
