@@ -117,23 +117,22 @@
 - [Overview](../Exercises/08-DynamicExperiments/08-Overview.md)
 --- 
 
-<div class="alert alert-block alert-danger">
-<b>This material still has to be prepared for the 2020 lectures.</b>
-</div>
-
 ### 16th April - Statistics, Prediction, and Reproducibility
 
- - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/09-Statistics.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?filepath=Lectures/09-Statistics.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2019/blob/master/Lectures/09-Statistics.ipynb)
+ - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/09-Statistics.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)]((http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Lectures/09-Statistics.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/09-Statistics.ipynb)
 
+#### Lecture videos
 - [Video](https://www.youtube.com/watch?v=ky7tfHkkVd0&list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw&index=17)
 
-
-#### Exercises
+#### Exercises (not ready yet)
 
 - [KNIME Exercises](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Exercises/08-Description.html)
 - C. Elegans Dataset on Kaggle [R Notebook](https://www.kaggle.com/kmader/d/kmader/high-content-screening-celegans/qbi-statistics-and-reproducibility-in-r/) or [Python Notebook](https://www.kaggle.com/kmader/d/kmader/high-content-screening-celegans/image-overview)
 <!-- Lung Segmentation [https://www.kaggle.com/kmader/dsb-lung-segmentation-algorithm/notebook](Rule-based Image Processing) and [Simple Neural Network](https://www.kaggle.com/kmader/simple-nn-with-keras) -->
 
+<div class="alert alert-block alert-danger">
+<b>This material still has to be prepared for the 2020 lectures.</b>
+</div>
 
 ### 23rd April - Scaling Up / Big Data
 
