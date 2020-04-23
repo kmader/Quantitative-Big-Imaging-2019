@@ -137,7 +137,7 @@
 <b>This material still has to be prepared for the 2020 lectures.</b>
 </div>
 
-### 23rd April - Scaling Up / Big Data
+### 30th April - Scaling Up / Big Data
 
  - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/11-ScalingUp.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Lectures/11-ScalingUp.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/11-ScalingUp.ipynb)
 
@@ -151,9 +151,9 @@
 
 - [Spark Example on Databricks Cloud](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1698738444120167/3665298589504346/4750003467380621/latest.html)
 
-### 30th April - Imaging with multiple modalities 
+### 7th April - Imaging with multiple modalities 
 
-
+<!---
 
 ### 7th May - Tracking/Dynamic Experiments - Live Coding
 
@@ -161,5 +161,8 @@
 - [Preprocessing Kernel](https://www.kaggle.com/kmader/aluminum-preprocessing)
 - [Bubble Tracking](https://www.kaggle.com/kmader/tracking-bubbles)
 - [Videos](https://www.youtube.com/watch?v=ytpAWCNCSfc&list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw&index=25&t=0s)
+
+
+--->
 
 ### 14th May - Project Presentations
