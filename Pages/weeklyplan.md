@@ -126,10 +126,10 @@
 - [Video](https://www.youtube.com/watch?v=ky7tfHkkVd0&list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw&index=17)
 
 #### Exercises (not ready yet)
-
-- [KNIME Exercises](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Exercises/08-Description.html)
 - C. Elegans Dataset on Kaggle [R Notebook](https://www.kaggle.com/kmader/d/kmader/high-content-screening-celegans/qbi-statistics-and-reproducibility-in-r/) or [Python Notebook](https://www.kaggle.com/kmader/d/kmader/high-content-screening-celegans/image-overview)
 <!-- Lung Segmentation [https://www.kaggle.com/kmader/dsb-lung-segmentation-algorithm/notebook](Rule-based Image Processing) and [Simple Neural Network](https://www.kaggle.com/kmader/simple-nn-with-keras) -->
+
+- Will come later in python once we know more about Pandas: [KNIME Exercises](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Exercises/08-Description.html)
 
 ---
 
