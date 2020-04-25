@@ -123,7 +123,8 @@
  - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/09-Statistics.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Lectures/09-Statistics.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/09-Statistics.ipynb)
 
 #### Lecture videos
-- [Video](https://www.youtube.com/watch?v=ky7tfHkkVd0&list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw&index=17)
+- [Part 1: Statistics](https://youtu.be/Q5xLyNXrE4w)
+- [Part 2: Reproducible workflow and visualization](https://youtu.be/sctNzJ9tmQ8)
 
 #### Exercises (not ready yet)
 - C. Elegans Dataset on Kaggle [R Notebook](https://www.kaggle.com/kmader/d/kmader/high-content-screening-celegans/qbi-statistics-and-reproducibility-in-r/) or [Python Notebook](https://www.kaggle.com/kmader/d/kmader/high-content-screening-celegans/image-overview)
