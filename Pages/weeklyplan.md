@@ -115,9 +115,11 @@
 
 #### Exercises
 - [Overview](../Exercises/08-DynamicExperiments/08-Overview.md)
+
 --- 
 ### 16th April - Easter break
 ---
+
 ### 23rd April - Statistics, Prediction, and Reproducibility
 
  - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/09-Statistics.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Lectures/09-Statistics.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/09-Statistics.ipynb)
@@ -126,11 +128,23 @@
 - [Part 1: Statistics](https://youtu.be/Q5xLyNXrE4w)
 - [Part 2: Reproducible workflow and visualization](https://youtu.be/sctNzJ9tmQ8)
 
-#### Exercises (not ready yet)
+#### Exercises
 - C. Elegans Dataset on Kaggle [R Notebook](https://www.kaggle.com/kmader/d/kmader/high-content-screening-celegans/qbi-statistics-and-reproducibility-in-r/) or [Python Notebook](https://www.kaggle.com/kmader/d/kmader/high-content-screening-celegans/image-overview)
 <!-- Lung Segmentation [https://www.kaggle.com/kmader/dsb-lung-segmentation-algorithm/notebook](Rule-based Image Processing) and [Simple Neural Network](https://www.kaggle.com/kmader/simple-nn-with-keras) -->
 
 - Will come later in python once we know more about Pandas: [KNIME Exercises](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Exercises/08-Description.html)
+
+---
+
+### 30th April - Imaging with multiple modalities 
+- [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/10-BimodalExperiments.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Lectures/10-BimodalExperiments.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/10-BimodalExperiments.ipynb)
+
+#### Lecture videos
+- [Part 1: Bimodal imaging](https://youtube.com)
+- [Part 2: Data frames](https://youtube.com)
+
+#### Exercises
+- Not complete [Exercises on statistics and data frames](http://nbviewer.jupyter.org/format/slides/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Exercises/10-Statistics_DataFrames/10-Statistics_DataFrames.ipynb)
 
 ---
 
@@ -152,18 +166,7 @@
 
 - [Spark Example on Databricks Cloud](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1698738444120167/3665298589504346/4750003467380621/latest.html)
 
-### 7th April - Imaging with multiple modalities 
-
-<!---
-
-### 7th May - Tracking/Dynamic Experiments - Live Coding
-
-- [Aluminum Foam Dataset](https://www.kaggle.com/kmader/aluminum-foam-animation#slice821_tser.avi)
-- [Preprocessing Kernel](https://www.kaggle.com/kmader/aluminum-preprocessing)
-- [Bubble Tracking](https://www.kaggle.com/kmader/tracking-bubbles)
-- [Videos](https://www.youtube.com/watch?v=ytpAWCNCSfc&list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw&index=25&t=0s)
 
 
---->
 
 ### 14th May - Project Presentations
